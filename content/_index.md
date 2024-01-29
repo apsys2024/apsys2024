@@ -27,7 +27,7 @@ sections:
     content:
       title: Overview
       text: |
-        Building on the success of its 2010-2023 predecessors in [New Delhi](http://conferences.sigcomm.org/sigcomm/2010/APSys.php), [Shanghai](http://apsys11.ucsd.edu/), [Seoul](http://apsys2012.kaist.ac.kr/), [Singapore](http://apsys13.sutd.edu.sg/), [Beijing](http://acs.ict.ac.cn/apsys2014/), [Tokyo](http://www.sslab.ics.keio.ac.jp/apsys2015/), [Hong Kong](http://www.cs.hku.hk/apsys2016/), [Mumbai](https://www.sigops.org/2017/apsys-2017-september-2-3-2017/), [Jeju Island](https://ap-sys.org/apsys2018), [Hangzhou](https://ap-sys.org/apsys2019), [Virtual (Tsukuba)](https://ap-sys.org/apsys2020), [Virtual (Hongkong)](https://ap-sys.org/apsys2021), [Virtual (Singapore)](https://ap-sys.org/apsys2022), and [Seoul](https://apsys23.skku.edu/), APSys 2024 will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. The 2024 ACM APSys will be held in Kyoto, Japan on September 4-5, 2024. We take a broad view of computer systems, and solicit papers on topics such as:
+        Building on the success of the predecessors in [New Delhi (2010)](http://conferences.sigcomm.org/sigcomm/2010/APSys.php), [Shanghai (2011)](http://apsys11.ucsd.edu/), [Seoul (2012)](http://apsys2012.kaist.ac.kr/), [Singapore (2013)](http://apsys13.sutd.edu.sg/), [Beijing (2014)](http://acs.ict.ac.cn/apsys2014/), [Tokyo (2015)](http://www.sslab.ics.keio.ac.jp/apsys2015/), [Hong Kong (2016)](http://www.cs.hku.hk/apsys2016/), [Mumbai (2017)](https://www.sigops.org/2017/apsys-2017-september-2-3-2017/), [Jeju Island (2018)](https://ap-sys.org/apsys2018), [Hangzhou (2019)](https://ap-sys.org/apsys2019), [Virtual (Tsukuba) (2020)](https://ap-sys.org/apsys2020), [Virtual (Hongkong) (2021)](https://ap-sys.org/apsys2021), [Virtual (Singapore) (2022)](https://ap-sys.org/apsys2022), and [Seoul (2023)](https://apsys23.skku.edu/), APSys 2024 will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. The 2024 ACM APSys will be held in Kyoto, Japan on September 4-5, 2024. We take a broad view of computer systems, and solicit papers on topics such as:
 
         <div class="row">
         <div class="col-md">
@@ -76,8 +76,8 @@ sections:
       order: desc
       page_type: news
     design:
-      view: list
       columns: '1'
+      view: list
 
   - block: markdown
     content:
@@ -85,21 +85,21 @@ sections:
       text: |
         <div class="row">
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i>April, 2024</h3>
+        <h3><i class="fa-solid fa-calendar-days"></i> April, 2024</h3>
         Abstract due:
         </div>
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i>May, 2024</h3>
+        <h3><i class="fa-solid fa-calendar-days"></i> May, 2024</h3>
         Submission due:
         </div>
         </div>
         <div class="row">
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i>June, 2024</h3>
+        <h3><i class="fa-solid fa-calendar-days"></i> June, 2024</h3>
         Notification to authors
         </div>
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i>July, 2024</h3>
+        <h3><i class="fa-solid fa-calendar-days"></i> July, 2024</h3>
         Camera-ready due:
         </div>
         </div>

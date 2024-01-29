@@ -9,8 +9,8 @@ sections:
       title: Organization
       user_groups:
           - General Chair
-          - Program Chairs
-          - Local Arrangement
+          - PC Chairs
+          - LA Chair
           - Sponsor Chair
           - Program Committee
       sort_by: Params.last_name
