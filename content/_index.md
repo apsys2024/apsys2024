@@ -19,7 +19,7 @@ sections:
               brightness: 0.7
           position: top
     design:
-      slide_height: '300px'
+      slide_height: '20rem'
       is_fullscreen: false
       loop: false
 
@@ -83,24 +83,26 @@ sections:
     content:
       title: Important Dates
       text: |
+        <div class="container">
         <div class="row">
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i> April 25, 2024 (AoE)</h3>
-        Abstract due:
+        <h4><i class="fa-solid fa-calendar-days"></i> April 25, 2024 (AoE)</h4>
+        Abstract due
         </div>
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i> May 2, 2024 (AoE)</h3>
-        Submission due:
+        <h4><i class="fa-solid fa-calendar-days"></i> May 2, 2024 (AoE)</h4>
+        Submission due
         </div>
         </div>
         <div class="row">
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i> July 1, 2024</h3>
+        <h4><i class="fa-solid fa-calendar-days"></i> July 1, 2024</h4>
         Notification to authors
         </div>
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i> July 30, 2024</h3>
-        Camera-ready due:
+        <h4><i class="fa-solid fa-calendar-days"></i> July 30, 2024</h4>
+        Camera-ready due
+        </div>
         </div>
         </div>
 ---
