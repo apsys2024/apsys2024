@@ -1,9 +1,9 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "The homepage of APSys 2024 has been opened"
+title: "The APSys 2024 website is now open."
 subtitle: ""
-summary: "The homepage of 15th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2024) has been opened."
+summary: "The APSys 2024 website is now open."
 authors: [shina]
 tags: []
 categories: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-The homepage of 15th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2024) has been opened.
+The webpage of 15th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2024) is now open.
 
 - Name: 15th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2024)
 - Date: September 4-5, 2024

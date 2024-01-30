@@ -19,7 +19,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: The University of Tokyo
-    url: 'https://www.os.ecc.u-tokyo.ac.jp'
+    url: 'https://www.u-tokyo.ac.jp/focus/en/people/people002421.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include operating systems, system software, and computer security
@@ -40,15 +40,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/utshina2
+  - icon: globe
+    icon_pack: fas
+    link: https://www.os.ecc.u-tokyo.ac.jp
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=HufXgzQAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/utshina
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/shina_en
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

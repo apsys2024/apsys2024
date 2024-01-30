@@ -85,21 +85,21 @@ sections:
       text: |
         <div class="row">
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i> April, 2024</h3>
+        <h3><i class="fa-solid fa-calendar-days"></i> April 25, 2024 (AoE)</h3>
         Abstract due:
         </div>
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i> May, 2024</h3>
+        <h3><i class="fa-solid fa-calendar-days"></i> May 2, 2024 (AoE)</h3>
         Submission due:
         </div>
         </div>
         <div class="row">
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i> June, 2024</h3>
+        <h3><i class="fa-solid fa-calendar-days"></i> July 1, 2024</h3>
         Notification to authors
         </div>
         <div class="col-md-6">
-        <h3><i class="fa-solid fa-calendar-days"></i> July, 2024</h3>
+        <h3><i class="fa-solid fa-calendar-days"></i> July 30, 2024</h3>
         Camera-ready due:
         </div>
         </div>
