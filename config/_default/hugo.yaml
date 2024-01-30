@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: APSys 2024
-baseURL: 'https://www.os.ecc.u-tokyo.ac.jp/apsys2024/'
+baseURL: 'https://apsys2024.github.io'
 
 ############################
 ## LANGUAGE
