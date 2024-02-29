@@ -6,6 +6,8 @@
 
 # Call for Papers
 
+[[text version](cfp.txt)]
+
 ## Overview
 
 The 15th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2024) will be held in Kyoto, Japan on September 4-5, 2024. Building on the success of its predecessors, APSys 2024 will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. APSys takes a broad view of systems, including but no limited to:
