@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: Ph.D (Science)
+    - course: Ph.D (Information Science and Technology)
       institution: The University of Tokyo
       year: 2015
 
