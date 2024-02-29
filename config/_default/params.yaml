@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '&copy; 2024 ACM Asia-Pacific Workshop on Systems (APSys)'
+    notice: '&copy; 2024 ACM Asia-Pacific Workshop on Systems (APSys 2024)'
     license:
       enable: false
       allow_derivatives: false
