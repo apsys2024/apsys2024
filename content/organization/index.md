@@ -11,6 +11,7 @@ sections:
           - General Chair
           - PC Chairs
           - LA Chair
+          - Publicity Chair
           - Sponsor Chair
           - Program Committee
       sort_by: Params.last_name
