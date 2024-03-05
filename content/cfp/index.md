@@ -7,6 +7,8 @@ Kyoto, Japan<br>
 September 4-5, 2024<br><br>
 </div>
 
+[[plaintext version](cfp.txt)]
+
 The 15th SIGOPS Asia-Pacific Workshop on Systems will be held in Kyoto, Japan on September 4-5, 2024. Building on the success of its predecessors, APSys 2024 will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. APSys takes a broad view of systems, including but no limited to:
 
 - Operating systems
