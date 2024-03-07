@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Hajime Tazaki
+title: Dong Du
 
 # Full name (for SEO)
-first_name: Hajime
-last_name: Tazaki
+first_name: Dong
+last_name: Du
 
 # Username (this should match the folder name)
 authors:
-  - tazaki
+  - du
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Deputy Manager
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: IIJ Research Laboratory
-    url: 'https://www.iijlab.net/en/'
+  - name: Shanghai Jiao Tong University
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
-  - Internet
-  - Library operating system
-  - Network architecture
-  - Software testing
-  - Network simulation
+    - operating systems
+    - architecture
+    - system security (TEE)
+    - serverless computing
+    - HW/SW co-design
 
 education:
   courses:
-    - course: Ph.D (Media and Governance)
-      institution: Keio University
-      year: 2011
+    - course: Ph.D
+      institution: Shanghai Jiao Tong University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://www.iijlab.net/en/members/tazaki.html
+    link: https://dongd.info/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=OmZ_jOcAAAAJ
+    link: https://scholar.google.com/citations?user=NSzZlzoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/thehajime
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/thehajime
+    link: https://github.com/Ddnirvana
+#  - icon: twitter
+#    icon_pack: fab
+#    link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
