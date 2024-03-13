@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: Organization
+      title: Organizing Committee
       user_groups:
           - General Chair
           - PC Co-Chairs
@@ -21,4 +21,16 @@ sections:
       show_role: true
       show_organizations: true
       show_social: true
+
+  - block: markdown
+    content:
+      title: Steering Committee
+      text: |
+        - KyoungSoo Park (KAIST, South Korea, Chair)
+        - Sorav Bensal (IIT Delhi, India)
+        - Haibo Chen (Shanghai Jiao Tong University, China)
+        - Wenguang Chen (Tsinghua University)
+        - Kenji Kono (Keio University, Japan)
+        - Shan Lu (University of Chicago, USA)
+        - Robbert Van Renesse (Cornell Universtiy, USA)
 ---
