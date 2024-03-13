@@ -39,6 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe
+    icon_pack: fas
+    link: https://www.soramichi.jp/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.jp/citations?user=piOb0JcAAAAJ
