@@ -9,9 +9,9 @@ sections:
       title: Organization
       user_groups:
           - General Chair
-          - PC Chairs
+          - PC Co-Chairs
           - LA Chair
-          - Publicity Chairs
+          - Publicity Co-Chairs
           - Sponsor Chair
           - Program Committee
       sort_by: Params.last_name
