@@ -26,11 +26,11 @@ sections:
     content:
       title: Steering Committee
       text: |
-        - KyoungSoo Park (KAIST, South Korea, Chair)
-        - Sorav Bensal (IIT Delhi, India)
-        - Haibo Chen (Shanghai Jiao Tong University, China)
-        - Wenguang Chen (Tsinghua University)
-        - Kenji Kono (Keio University, Japan)
-        - Shan Lu (University of Chicago, USA)
-        - Robbert Van Renesse (Cornell Universtiy, USA)
+        - [KyoungSoo Park (Seoul National University, South Korea, Chair)](https://cse.snu.ac.kr/en/professor/kyoungsoo-park)
+        - [Sorav Bensal (IIT Delhi, India)](https://sorav.compiler.ai/)
+        - [Haibo Chen (Shanghai Jiao Tong University, China)]()
+        - [Wenguang Chen (Tsinghua University, China)](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
+        - [Shan Lu (University of Chicago, USA)](https://pacman.cs.tsinghua.edu.cn/~cwg/)
+        - [Byung-Gon Chun (Seoul National University, South Korea)](https://bgchun.github.io/)
+        - [Beomseok Nam (SungKyunKwan University, South Korea)](http://dicl.skku.edu/~bnam/)
 ---
