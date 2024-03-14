@@ -29,8 +29,8 @@ sections:
         - [KyoungSoo Park (Seoul National University, South Korea, Chair)](https://cse.snu.ac.kr/en/professor/kyoungsoo-park)
         - [Sorav Bensal (IIT Delhi, India)](https://sorav.compiler.ai/)
         - [Haibo Chen (Shanghai Jiao Tong University, China)](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
-        - [Wenguang Chen (Tsinghua University, China)](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
-        - [Shan Lu (University of Chicago, USA)](https://pacman.cs.tsinghua.edu.cn/~cwg/)
+        - [Wenguang Chen (Tsinghua University, China)](https://pacman.cs.tsinghua.edu.cn/~cwg/)
+        - [Shan Lu (University of Chicago, USA)](http://people.cs.uchicago.edu/~shanlu/)
         - [Byung-Gon Chun (Seoul National University, South Korea)](https://bgchun.github.io/)
         - [Beomseok Nam (SungKyunKwan University, South Korea)](http://dicl.skku.edu/~bnam/)
 ---
