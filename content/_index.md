@@ -16,7 +16,7 @@ sections:
           image:
             filename: slide1.jpg
             filters:
-              brightness: 0.8
+              brightness: 0.7
           position: top
       - title: 15th ACM SIGOPS Asia-Pacific Workshop on Systems<br>(APSys 2024)
         content: September 4-5, 2024<br>Kyoto, Japan
