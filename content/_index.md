@@ -49,7 +49,7 @@ sections:
       slide_height: '20rem'
       is_fullscreen: false
       loop: true
-      interval: 2000
+      interval: 4000
 
   - block: markdown
     content:
