@@ -16,12 +16,40 @@ sections:
           image:
             filename: slide1.jpg
             filters:
+              brightness: 0.8
+          position: top
+      - title: 15th ACM SIGOPS Asia-Pacific Workshop on Systems<br>(APSys 2024)
+        content: September 4-5, 2024<br>Kyoto, Japan
+        align: center
+        background:
+          image:
+            filename: slide2.jpg
+            filters:
+              brightness: 0.7
+          position: top
+      - title: 15th ACM SIGOPS Asia-Pacific Workshop on Systems<br>(APSys 2024)
+        content: September 4-5, 2024<br>Kyoto, Japan
+        align: center
+        background:
+          image:
+            filename: slide4.jpg
+            filters:
+              brightness: 0.7
+          position: top
+      - title: 15th ACM SIGOPS Asia-Pacific Workshop on Systems<br>(APSys 2024)
+        content: September 4-5, 2024<br>Kyoto, Japan
+        align: center
+        background:
+          image:
+            filename: slide5.jpg
+            filters:
               brightness: 0.7
           position: top
     design:
       slide_height: '20rem'
       is_fullscreen: false
-      loop: false
+      loop: true
+      interval: 2000
 
   - block: markdown
     content:
