@@ -10,13 +10,16 @@ sections:
     content:
       slides:
       - title: 15th ACM SIGOPS Asia-Pacific Workshop on Systems<br>(APSys 2024)
-        content: September 4-5, 2024<br>Kyoto, Japan
+        content: |
+          September 4-5, 2024<br>
+          Kyoto, Japan
         align: center
         background:
           image:
             filename: slide1.jpg
             filters:
               brightness: 0.7
+            credit: "Image credit: Kiyomizu-dera"
           position: top
       - title: 15th ACM SIGOPS Asia-Pacific Workshop on Systems<br>(APSys 2024)
         content: September 4-5, 2024<br>Kyoto, Japan
@@ -41,7 +44,17 @@ sections:
         align: center
         background:
           image:
-            filename: slide5.jpg
+            filename: slide6.jpg
+            filters:
+              brightness: 0.7
+            credit: "Image credit: Hotel Okura"
+          position: top
+      - title: 15th ACM SIGOPS Asia-Pacific Workshop on Systems<br>(APSys 2024)
+        content: September 4-5, 2024<br>Kyoto, Japan
+        align: center
+        background:
+          image:
+            filename: slide7.jpg
             filters:
               brightness: 0.7
           position: top
