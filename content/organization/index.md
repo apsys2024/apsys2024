@@ -26,6 +26,10 @@ sections:
     content:
       title: Program Committee
       text: |
+        ## Chairs
+        - Marco Canini (King Abdullah University of Science and Technology)
+        - Irene Y. Zhang (Microsoft Research)
+        ## Members
         - Dan Alistarh (IIT Austria)
         - Wei Bai (NVIDIA)
         - Theophilus Benson (CMU)
