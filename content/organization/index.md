@@ -11,9 +11,9 @@ sections:
           - General Chair
           - PC Co-Chairs
           - LA Chair
-          - Publicity Co-Chairs
+          - Finance Chair
           - Sponsor Chair
-          - Program Committee
+          - Publicity Co-Chairs
       sort_by: Params.last_name
       sort_ascending: true
     design:
