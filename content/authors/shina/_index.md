@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -42,7 +42,7 @@ education:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://www.os.ecc.u-tokyo.ac.jp
+    link: https://www.os.is.s.u-tokyo.ac.jp/en/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=HufXgzQAAAAJ
