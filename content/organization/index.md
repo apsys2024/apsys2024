@@ -10,6 +10,7 @@ sections:
       user_groups:
           - General Chair
           - PC Co-Chairs
+          - Poster Chair
           - LA Chair
           - Finance Chair
           - Sponsor Chair
