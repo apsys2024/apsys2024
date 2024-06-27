@@ -18,8 +18,7 @@
 }
 
 .home-section {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding: 1rem 5rem 2rem 5rem;
 }
 
 .page-event-header h1, .page-event-header p {
@@ -54,23 +53,22 @@ div.people-widget h2 {
 
 
 h1, .h1 {
-  font-size: 2rem; }
+  font-size: 1.75rem; }
 
 h2, .h2 {
-  font-size: 1.8rem; }
-
-h3, .h3 {
   font-size: 1.6rem; }
 
+h3, .h3 {
+  font-size: 1.45rem; }
+
 h4, .h4 {
-  font-size: 1.4rem; }
+  font-size: 1.3rem; }
 
 h5, .h5 {
-  font-size: 1.2rem; }
+  font-size: 1.15rem; }
 
 h6, .h6 {
   font-size: 1rem; }
-
 
 // Center the CTA shortcode button
 .cta-group {

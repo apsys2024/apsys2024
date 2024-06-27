@@ -93,6 +93,17 @@ sections:
 
   - block: markdown
     content:
+      title: Sponsors
+      text: |
+        <center>
+        <h3>Gold</h3>
+        <div style="padding: 1rem;">
+        {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en" width="300px" >}}
+        </div>
+        </center>
+
+  - block: markdown
+    content:
       title: Important Dates
       text: |
         <h4><i class="fa-solid fa-calendar-days"></i> April 25, 2024 (AoE)</h4>
