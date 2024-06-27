@@ -95,23 +95,43 @@ sections:
     content:
       title: Sponsors
       text: |
-        <center>
-        <h3>Gold</h3>
-        <div style="padding: 1rem;">
+        <div class="mx-auto text-center" style="width: fit-content;">
+        <h3>Platinum</h3>
+        (To appear)
+        <h3 class="text-center">Gold</h3>
+        <br>
+        <div style="padding: 10px; background: white;">
         {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en" width="300px" >}}
         </div>
-        </center>
+        (To appear)<br>
+        (To appear)<br>
+        (To appear)
+        <h3 class="text-center">Bronze</h3>
+        (To appear)
+        </div>
 
   - block: markdown
     content:
       title: Important Dates
       text: |
+        <div class="row text-center" style="width: fit-content;">
+        <div class="col-md-6">
         <h4><i class="fa-solid fa-calendar-days"></i> April 25, 2024 (AoE)</h4>
-        Abstract due
+        <h5><s>Abstract due</s></h5>
+        </div>
+
+        <div class="col-md-6">
         <h4><i class="fa-solid fa-calendar-days"></i> May 2, 2024 (AoE)</h4>
-        Submission due
+        <h5><s>Submission due</s></h5>
+        </div>
+
+        <div class="col-md-6">
         <h4><i class="fa-solid fa-calendar-days"></i> July 1, 2024</h4>
-        Notification to authors
+        <h5>Notification to authors</h5>
+        </div>
+
+        <div class="col-md-6">
         <h4><i class="fa-solid fa-calendar-days"></i> July 30, 2024</h4>
-        Camera-ready due
+        <h5>Camera-ready due</h5>
+        </div>
 ---
