@@ -101,13 +101,23 @@ sections:
         <h3 class="text-center">Gold</h3>
         <br>
         <div style="padding: 10px; background: white;">
-        {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en" width="300px" >}}
+        {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en" width="300" >}}
         </div>
         (To appear)<br>
         (To appear)<br>
         (To appear)
         <h3 class="text-center">Bronze</h3>
         (To appear)
+        </div>
+
+  - block: markdown
+    content:
+      title: Organization
+      text: |
+        <div class="mx-auto text-center" style="width: fit-content;">
+        <div style="padding-top: 40px;">
+        {{< figure src="logos/sigops.png" link="https://www.sigops.org/" width="200" >}}
+        </div>
         </div>
 
   - block: markdown
