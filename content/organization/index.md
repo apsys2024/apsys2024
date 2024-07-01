@@ -14,6 +14,7 @@ sections:
           - LA Chair
           - Finance Chair
           - Sponsor Chair
+          - Publication Chair
           - Publicity Co-Chairs
       sort_by: Params.last_name
       sort_ascending: true
