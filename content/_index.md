@@ -103,11 +103,11 @@ sections:
         <div style="padding: 10px; background: white;">
         {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en" width="300" >}}
         </div>
-        [Western Digital](https://www.westerndigital.com/)<br>
+        <a href="https://www.westerndigital.com/">Western Digital</a><br>
         (To appear)<br>
         (To appear)
         <h3 class="text-center">Bronze</h3>
-        [IGEL Co., Ltd.](https://www.igel.co.jp/en/)
+        <a href="https://www.igel.co.jp/en/">IGEL Co., Ltd.</a>
         </div>
 
   - block: markdown
