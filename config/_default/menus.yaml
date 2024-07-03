@@ -25,6 +25,9 @@ main:
   - name: Venue
     url: venue
     weight: 80
+  - name: Past
+    url: past
+    weight: 85
   - name: Contact
     url: contact
     weight: 90
