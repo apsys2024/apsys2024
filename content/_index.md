@@ -68,7 +68,7 @@ sections:
     content:
       title: Overview
       text: |
-        Building on the success of the predecessors in [New Delhi (2010)](https://ap-sys.org/apsys2010), [Shanghai (2011)](https://ap-sys.org/apsys2011), Seoul (2012), Singapore (2013), Beijing (2014), [Tokyo (2015)](https://ap-sys.org/apsys2015), [Hong Kong (2016)](https://ap-sys.org/apsys2016), [Mumbai (2017)](https://ap-sys.org/apsys2017), [Jeju Island (2018)](https://ap-sys.org/apsys2018), Hangzhou (2019), [Virtual (Tsukuba) (2020)](https://ap-sys.org/apsys2020), [Virtual (Hongkong) (2021)](https://ap-sys.org/apsys2021), [Virtual (Singapore) (2022)](https://ap-sys.org/apsys2022), and [Seoul (2023)](https://ap-sys.org/apsys2023), APSys 2024 will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. The 2024 ACM APSys will be held in Kyoto, Japan on September 4-5, 2024.
+        Building on the success of the [predecessors](/past/), APSys 2024 will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. The 2024 ACM APSys will be held in Kyoto, Japan on September 4-5, 2024.
     design:
       columns: '1'
 
