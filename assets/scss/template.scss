@@ -1,5 +1,5 @@
-.page-menu-style {
-    border-top: solid gray 2px;
+.article-container {
+  max-width: 900px;
 }
 
 .wg-hero {
@@ -70,6 +70,11 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1rem; }
+
+.view-list-item {
+    margin-bottom: 0.2rem;
+}
+
 
 // Center the CTA shortcode button
 .cta-group {
