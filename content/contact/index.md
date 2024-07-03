@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2022-10-24
+date: 2024-07-01
 
 type: landing
 
@@ -9,19 +9,10 @@ sections:
     content:
       title: Contact
       text: |-
-        TBA
-      email: test@example.org
+        Please use this form to contact us.
+      email: apsys2024-contact@googlegroups.com
       autolink: true
 
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '1'
-
 ---
