@@ -1,5 +1,7 @@
 # Call for Posters
 
+[[plaintext version](cfposters.txt)]
+
 APSys 2024 calls for posters to present innovative research in various fields of computer systems.
 The posters will be presented during the workshop’s poster session, aiming to highlight new or ongoing research and provide an opportunity for authors to interact directly with workshop participants.
 
