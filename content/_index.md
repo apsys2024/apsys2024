@@ -93,32 +93,36 @@ sections:
 
   - block: markdown
     content:
-      title: Sponsors
       text: |
-        <div class="mx-auto text-center" style="width: fit-content;">
-        <h3>Platinum</h3>
+        <div class="text-center">
+        <h3>Platinum Sponsor</h3>
         (To appear)
-        <h3 class="text-center">Gold</h3>
-        <br>
-        <div style="padding: 10px; background: white;">
-        {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en" width="300" >}}
-        </div>
+
+        <h3>Gold Sponsor</h3>
+        <div class="row">
+        <div class="col-md">
+        {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en" class="p-3 bg-white" img_class="mx-auto d-block" width="300" >}}
         <a href="https://www.westerndigital.com/">Western Digital</a><br>
+        </div>
+        </div>
+
+        <div class="row">
+        <div class="col-md">
         (To appear)<br>
         (To appear)
-        <h3 class="text-center">Bronze</h3>
-        <a href="https://www.igel.co.jp/en/">IGEL Co., Ltd.</a>
         </div>
+        </div>
+
+        <h3>Bronze Sponsor</h3>
+        {{< figure src="logos/igel_logo_100219.png" link="https://www.igel.co.jp/en/" img_class="mx-auto d-block" width="120">}}
+        </div>
+
 
   - block: markdown
     content:
       title: Organization
       text: |
-        <div class="mx-auto text-center" style="width: fit-content;">
-        <div style="padding-top: 40px;">
-        {{< figure src="logos/sigops.png" link="https://www.sigops.org/" width="200" >}}
-        </div>
-        </div>
+        {{< figure src="logos/sigops.png" link="https://www.sigops.org/" img_class="mx-auto d-block" width="200">}}
 
   - block: markdown
     content:
