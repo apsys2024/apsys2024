@@ -20,7 +20,7 @@ Please note that the posters, demos, and extended abstracts will not be included
 
 <h4><i class="fa-solid fa-calendar-days"></i> Jul 19, 2024 (AoE)</h4>
 <h5>Submission due</h5>
-<h4><i class="fa-solid fa-calendar-days"></i> Jul 26, 2024 (AoE)</h4>
+<h4><i class="fa-solid fa-calendar-days"></i> Jul 26, 2024</h4>
 <h5>Notification</h5>
 
 ## Poster Chair
