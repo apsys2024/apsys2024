@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Please use this form to contact us.
+        Please use the following email address for contacting us.
       email: apsys2024-contact@googlegroups.com
       autolink: true
 
