@@ -14,9 +14,11 @@ If the number of submissions is high, some posters may be selected for a few min
 Submissions must include an extended abstract no longer than one 8.5×11inch page, including all figures and references, formatted in [standard ACM two-column conference style](https://www.acm.org/publications/proceedings-template) with 10-pt font size.
 Your abstract should contain a brief description of the problem, the key contributions of your work, how your work compares to prior research, and any results from your evaluation.
 
-The submission site will open soon.
-
 Please note that the posters, demos, and extended abstracts will not be included in the workshop proceedings, but the abstracts will be available on this website.
+
+The submission site is as follows.
+
+https://apsys24posters.hotcrp.com/
 
 ## Important Dates
 
