@@ -101,8 +101,10 @@ sections:
         <h3>Gold Sponsor</h3>
         <div class="row">
         <div class="col-md">
-        {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en" class="p-3 bg-white" img_class="mx-auto d-block" width="300" >}}
-        <a href="https://www.westerndigital.com/">Western Digital</a><br>
+        {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en/" class="p-3 bg-white" img_class="mx-auto d-block" width="300" >}}
+        </div>
+        <div class="col-md">
+        {{< figure src="logos/WDC.Logo.11-PrimaryWordmarkHero.Color-RGB.WW.052622.svg" link="https://www.westerndigital.com/" class="bg-white" img_class="mx-auto d-block" width="300" >}}
         </div>
         </div>
 
