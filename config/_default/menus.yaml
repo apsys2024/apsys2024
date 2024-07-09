@@ -7,18 +7,24 @@ main:
   - name: News
     url: news
     weight: 10
-  - name: Call for Papers
-    url: cfp
+  - name: Calls
+    identifier: calls
     weight: 20
+  - name: Call for Papers
+    parent: calls
+    url: cfp
+    weight: 21
   - name: Call for Posters
+    parent: calls
     url: cfposters
-    weight: 30
+    weight: 22
   - name: Call for Sponsors
+    parent: calls
     url: cfs
-    weight: 40
-  - name: Program
-    url: program
-    weight: 50
+    weight: 23
+  - name: Accepted Papers
+    url: papers
+    weight: 30
   - name: Organization
     url: organization
     weight: 70

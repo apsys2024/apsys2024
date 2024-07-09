@@ -78,5 +78,8 @@ h6, .h6 {
 
 // Center the CTA shortcode button
 .cta-group {
-  justify-content: center;
+    justify-content: center;
+}
+.cta-group li a.btn {
+    font-size: large;
 }
