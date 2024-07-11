@@ -50,4 +50,27 @@ By submitting your article to an ACM Publication, you are hereby acknowledging t
 
 Please ensure that you and your co-authors [obtain an ORCID ID](https://orcid.org/register), so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a [commitment to collect ORCID IDs from all of our published authors](https://authors.acm.org/author-resources/orcid-faqs). We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
 
-Authors should also consult [ACM Publications Policies](https://www.acm.org/publications/policies), especially those around Authors; Plagiarism, Misrepresentation, and Falsification; Research Involving Human Subjects; Prior Publication and Simultaneous Submissions; and Coercion and Abuse; **and the [use of Generative AI in papers](https://www.acm.org/publications/policies/frequently-asked-questions)**.
+Authors should also consult [ACM Publications Policies](https://www.acm.org/publication
+s/policies), especially those around Authors; Plagiarism, Misrepresentation, and Falsification; Research Involving Human Subjects; Prior Publication and Simultaneous Submissions; and Coercion and Abuse; **and the [use of Generative AI in papers](https://www.acm.org/publications/policies/frequently-asked-questions)**.
+
+
+## Camera-ready Instructions
+
+Below are the general formatting rules for the final papers of APSys 2024:
+
+- The final paper, including all text, figures, tables, and any appendices, must fit within the SIX-page limit. References have no page limit.
+- ACM is the publisher for APSys 2024. Please format your final version in standard ACM two-column conference style with 10-pt font size.
+- Use A4 or US letter paper size, with all text and figures fitting inside a 178 x 229 mm (7 x 9 in) block centered on the page.
+- Graphs and figures should be readable without magnification.
+- Since ACM cannot substitute font types, the fonts of the final papers must be scalable Type 1 fonts, not bit-mapped Type 3. Otherwise, the formatting paper may be rejected during the ACM production procedure.
+- All fonts must be embedded. To help you through this process, you can refer to the [embedded font checking guidelines](https://www.acm.org/binaries/content/assets/publications/word-to-pdf-instructions-.txt) from ACM.
+
+To help you with formatting your final papers, we recommend using the [latex template](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip
+) of [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template).
+
+- Please use the standard 'sigconf' proceedings option in '\documentclass'.
+- Authors should apply ACM Computing Classification categories and terms.
+- ACM has deprecated all older style files and released a new template that supersedes prior templates. Authors should not use the older deprecated versions.
+- Authors will receive an email to submit a copyright form formally to ACM. Once ACM approves the submitted form, authors will receive a response that will have the DOI number, ISBN number, and additional information regarding the paper. Authors need to use this information to update the corresponding fields in the latex template, which will be visible at the left bottom of the first page. As rights management emails from rightsreview@acm.org are sent by an automated system, please check your SPAM folders if they do not appear in your inbox.
+
+Please note that the camera-ready paper must be submitted to the [submission website](https://apsys24.hotcrp.com) by July 30, 2024. For any additional questions, please send an email to the APSys 2024 publication chair: Atsushi Koshiba (apsys2024-publication@googlegroups.com).
