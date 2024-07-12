@@ -31,9 +31,14 @@ main:
   - name: Venue
     url: venue
     weight: 80
-  - name: Past
-    url: past
-    weight: 85
-  - name: Contact
-    url: contact
+  - name: Others
+    identifier: others
     weight: 90
+  - name: Contact
+    parent: others
+    url: contact
+    weight: 91
+  - name: Past
+    parent: others
+    url: past
+    weight: 92

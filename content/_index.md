@@ -114,6 +114,7 @@ sections:
   - block: markdown
     content:
       text: |
+        # Sponsors {#sponsors}
         <style>
         .dark .home-section figure { background: white; }
         </style>
