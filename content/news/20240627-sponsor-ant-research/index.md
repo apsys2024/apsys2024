@@ -17,4 +17,4 @@ image:
   preview_only: false
 projects: []
 ---
-[Ant Research](https://www.antgroup.com/en) becomes a Gold Sponsor of APSys 2024!
+[Ant Research](https://www.antgroup.com/en) becomes a Gold Sponsor of APSys 2024.

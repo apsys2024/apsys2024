@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-[Western Digital Corporation](https://www.westerndigital.com/) becomes a Gold Sponsor!
+[Western Digital Corporation](https://www.westerndigital.com/) becomes a Gold Sponsor of APSys 2024.

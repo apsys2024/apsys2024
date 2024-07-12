@@ -17,4 +17,4 @@ image:
   preview_only: false
 projects: []
 ---
-[IGEL Co.,Ltd.](https://www.igel.co.jp/en/) becomes a Bronze Sponsor of APSys 2024!
+[IGEL Co.,Ltd.](https://www.igel.co.jp/en/) becomes a Bronze Sponsor of APSys 2024.
