@@ -11,3 +11,23 @@ You can find more information in our [sponsorship brochure](cfsponsor.pdf).
 Best regards,<br>
 {{% mention shina %}}, General Chair<br>
 {{% mention fukai %}}, Sponsor Chair
+
+## Current Sponsors
+
+### Platinum
+
+- IBM (coming soon...)
+
+### Gold
+
+- Ant Research
+- Western Digital
+- SAKURA Internet (coming soon...)
+- ??? (coming soon...)
+
+### Silver
+
+### Bronze
+
+- IGEL Co., Ltd
+- LY Corporation
