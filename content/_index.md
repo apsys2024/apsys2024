@@ -146,7 +146,7 @@ sections:
         {{< figure src="logos/igel_logo_100219.png" link="https://www.igel.co.jp/en/" img_class="mx-auto d-block" width="150">}}
         </div>
         <div class="col-md">
-        {{< figure src="logos/ly.png" link="https://www.lycorp.co.jp/en/" img_class="p-5 mx-auto d-block" width="165">}}
+        {{< figure src="logos/LY.png" link="https://www.lycorp.co.jp/en/" img_class="p-5 mx-auto d-block" width="165">}}
         </div>
         </div>
 
