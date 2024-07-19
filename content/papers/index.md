@@ -25,7 +25,7 @@ p { font-size: smaller; }
 <p>Kenichi Yasukata (IIJ Research Laboratory); Kenta Ishiguro (Keio University)</p>
 
 ###### Persistent Memory I/O-Aware Task Placement for Mitigating Resource Contention<br>
-<p>Hyunwoo Ahn (MangoBoost Inc.); Jongseok Kim, Euiseong Seo (Sungkyunkwan University)</p>
+<p>Hyunwoo Ahn, Jongseok Kim, Euiseong Seo (Sungkyunkwan University)</p>
 
 ###### FHA: Flow-level High Availability on Programmable Network Hardware for Cloud Provider<br>
 <p>Ying Chu (USTC & Microsoft Research); Ziyuan Liu (Beihang University & Microsoft Research); Riff Jiang, Ze Gan, Junhua Zhai, Guohan Lu (Microsoft); Zhixiong Niu, Yongqiang Xiong (Microsoft Research)</p>
