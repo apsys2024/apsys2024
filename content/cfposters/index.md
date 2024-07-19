@@ -22,9 +22,9 @@ https://apsys24posters.hotcrp.com/
 
 ## Important Dates
 
-<h4><i class="fa-solid fa-calendar-days"></i> Jul 19, 2024 (AoE)</h4>
+<h4><i class="fa-solid fa-calendar-days"></i> <s>Jul 19, 2024 (AoE)</s> Jul 24, 2024 (AoE) (Extended)</h4>
 <h5>Submission due</h5>
-<h4><i class="fa-solid fa-calendar-days"></i> Jul 26, 2024</h4>
+<h4><i class="fa-solid fa-calendar-days"></i> <s>Jul 26, 2024</s> Jul 31, 2024</h4>
 <h5>Notification</h5>
 
 ## Poster Chair
