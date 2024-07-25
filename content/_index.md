@@ -73,22 +73,14 @@ sections:
         APSys takes a broad view of systems, including but no limited to: operating systems, virtualization, file and storage systems, networked systems, mobile systems, embedded and IoT systems, cloud computing and data centers, edge computing, big data systems, distributed systems, green and sustainable computing, debugging/testing/verification, measurement/monitoring/modeling, reliability/scalability/fault tolerance, security and privacy, systems for machine learning, machine learning for systems, hardware and software interaction, experience with deployed systems, and blockchain and cryptocurrency systems.
         -->
 
-        # Shortcut
         <div class="row">
-        <div class="col">
-        {{< cta cta_text="Camera-ready Instructions" cta_link="/cfp/index.html#camera-ready-instructions" cta_new_tab="false" >}}
-        </div>
-        <div class="col">
-        {{< cta cta_text="Call for Posters" cta_link="/cfposters/" cta_new_tab="false" >}}
-        </div>
         <div class="col">
         {{< cta cta_text="Call for Sponsors" cta_link="/cfs/" cta_new_tab="false" >}}
         </div>
         <div class="col">
-        {{< cta cta_text="Accepted Papers" cta_link="/papers/" cta_new_tab="false" >}}
+        {{< cta cta_text="Program" cta_link="/program/" cta_new_tab="false" >}}
         </div>
         </div>
-        
     design:
       columns: '1'
 

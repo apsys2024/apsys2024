@@ -1,3 +1,107 @@
-# Workshop Program
+---
+---
+# Program
 
-TBA
+{{% callout info %}}
+25 minutes per presentation
+{{% /callout %}}
+
+## Wednesday, September 4th
+
+##### 09:00-09:15 Opening remarks
+
+##### 09:15-10:15 Keynote
+
+##### 10:15-10:45 Break
+
+##### 10:45-12:00 Session 1: Memory Madness
+
+###### (1) Virtual Memory Revisited for Tiered Memory
+<p>Oliver Giersch (Brandenburgische Technische Universität Cottbus-Senftenberg); Dustin Nguyen (Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)); Jörg Nolte (BTU Cottbus-Senftenberg); Wolfgang Schröder-Preikschat (FAU)</p>
+
+###### (2) Persistent Memory I/O-Aware Task Placement for Mitigating Resource Contention
+<p>Hyunwoo Ahn, Jongseok Kim, Euiseong Seo (Sungkyunkwan University)</p>
+
+###### (3) Polar: A Managed Runtime with Hotness-Segregated Heap for Far Memory
+<p>Dat Nguyen, Khanh Nguyen (Texas A&M University)</p>
+
+##### 12:00-13:15 Lunch (on your own)
+
+##### 13:15-14:30 Session 2: Kernel Kraziness
+
+###### (4) Chaos: Function Granularity Runtime Address Layout Space Randomization for Kernel Module
+<p>Zihao Chang, Jihan Lin (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory); Haifeng Sun (Peking University); Runkuan Li (Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory); Ying Wang (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences); Bin Hu (Institute of Computing Technology, Chinese Academy of Sciences; Zhongguancun Laboratory); Xiaofang Zhao (Institute of Computing Technology, Chinese Academy of Sciences; Zhongguancun Laboratory; Institute of Intelligent Computing Technology, Suzhou, CAS; University of Chinese Academy of Sciences, Nanjing); Dejun Jiang, Sun Ninghui, Sa Wang (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory)</p>
+
+###### (5) Framekernel: A Safe and Efficient Kernel Architecture via Rust-based Intra-kernel Privilege Separation
+<p>Yuke Peng (Southern University of Science and Technology(SUSTech)); Hongliang Tian (Ant Group); Jinyi Xian, Shuai Zhou (Southern University of Science and Technology(SUSTech)); Shoumeng Yan (Ant Group); Yinqian Zhang (Southern University of Science and Technology(SUSTech))</p>
+
+###### (6) Developing Process Scheduling Policies in User Space with Common OS Features
+<p>Kenichi Yasukata (IIJ Research Laboratory); Kenta Ishiguro (Keio University)</p>
+
+##### 14:30-15:00 Break
+
+##### 15:00-16:15 Session 3: Migration Mayhem
+
+###### (7) SmartNIC-enabled Live Migration for Storage Optimized VMs
+<p>Jiechen Zhao (Microsoft Research/University of Toronto); Ran Shu, Lei Qu, Ziyue Yang (Microsoft Research); Natalie Enright Jerger (University of Toronto); Derek Chiou (University of Texas at Austin/Microsoft); Peng Cheng, Yongqiang Xiong (Microsoft Research)</p>
+
+###### (8) Live Migration of Arm-based Confidential VMs
+<p>Fang-Jie Yang, Jian-Lin Li (National Taiwan University); Kaiwen Xue (Carnegie Mellon University); Shih-Wei Li (National Taiwan University)</p>
+
+###### (9) Towards Efficient End-to-End Encryption for Container Checkpointing Systems
+<p>Radostin Stoyanov (University of Oxford); Adrian Reber, Daiki Ueno (Red Hat); Michał Cłapiński, Andrei Vagin (Google); Rodrigo Bruno (INESC-ID, Instituto Superior Técnico, Universidade de Lisboa)</p>
+
+##### 16:15-17:15 Poster session
+
+##### 18:00- Banquet
+
+## Thursday, September 5th
+
+##### 09:00-10:15 Session 4: Network Netsense
+
+###### (10) NotNets: Accelerating Microservices by Bypassing the Network
+<p>Peter Alvaro (U. C. Santa Cruz); Matthew Adiletta (Intel Corporation); David Cheng (Yale University); Adrian Cockcroft (OrionX); Frank Hady, Ramesh Illikkal (Intel Coproration); Esteban Ramos (UC Santa Cruz); Robert Soulé (Yale University)</p>
+
+###### (11) FHA: Flow-level High Availability on Programmable Network Hardware for Cloud Provider
+<p>Ying Chu (USTC & Microsoft Research); Ziyuan Liu (Beihang University & Microsoft Research); Riff Jiang, Ze Gan, Junhua Zhai, Guohan Lu (Microsoft); Zhixiong Niu, Yongqiang Xiong (Microsoft Research)</p>
+
+###### (12) Split gRPC: An Isolation Architecture for RPC Software Stacks
+<p>Esteban Ramos (UC Santa Cruz); Robert Soulé (Yale University); Peter Alvaro (U. C. Santa Cruz); Pietro Bressana (Intel Corporation); Edmund Chen, Uri Cummings (Unaffiliated); Rui Li (Intel Corporation); James Tsai (Intel Labs); Rajit Manohar (Yale University)</p>
+
+##### 10:15-10:45 Break
+
+##### 10:45-12:00 Session 5: AI Antics
+
+###### (13) NeuronaBox: Towards a Flexible and High-Fidelity Emulator for Distributed DNN Training
+<p>Banruo Liu (Tsinghua University); Mubarak Ojewale (KAUST); Yuhan Ding (Tsinghua University); Marco Canini (KAUST)</p>
+
+###### (14) SERAPH: A Performance-Cost Aware Tuner for Training Reinforcement Learning Model on Serverless Computing
+<p>Jinbo Han, Xingda Wei, Rong Chen, Haibo Chen (Shanghai Jiao Tong University)</p>
+
+###### (15) BMoss: Reconfigurable hardware accelerator for scalable plagiarism detection
+<p>Esmerald Aliaj, Alberto Krone-Martins, Sang-Woo Jun (University of California, Irvine)</p>
+
+##### 12:00-13:15 Lunch (on your own)
+
+##### 13:15-14:30 Session 6: Edge and Cloud Capers
+
+###### (16) Toward an Edge-Friendly Distributed Object Store for Serverless Functions
+<p>Liting Hu (UC Santa Cruz); Xin Chen (Georgia Institute of Technology); Manoj Prabhakar Paidiparthy (Virginia Tech)</p>
+
+###### (17) Hora: High Assurance Periodic Availability Guarantee for Life-Critical Applications on Smartphones
+<p>Dylan Zueck, Nathaniel Atallah, Ian Do (University of California, Irvine); Zhihao (Zephyr) Yao (New Jersey Institute of Technology); Ardalan Amiri Sani (University of California, Irvine)</p>
+
+###### (18) Faster FUSE Filesystems with Efficient Data Transfers
+<p>Giorgos Kappes, Stergios V. Anastasiadis (University of Ioannina)</p>
+
+##### 14:30-15:00 Break
+
+##### 15:00-15:50 Session 7: Concurrency Chaos
+
+###### (19) WoundDie: Concurrency Control Protocol with Lightweight Priority Control
+<p>Kodai Doki (Keio University); Takashi Hoshino (Cybozu Labs, Inc.); Hideyuki Kawashima (Keio University)</p>
+
+###### (20) ONIONDISK: A Log-Structured Write-Optimal Virtual Block Device
+<p>Shiyu Wang, Zhihao Zhang, Yiming Zhang (Xiamen University)</p>
+
+#### 15:50-16:00 Closing remarks

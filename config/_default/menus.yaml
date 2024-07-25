@@ -22,12 +22,15 @@ main:
     parent: calls
     url: cfs
     weight: 23
-  - name: Accepted Papers
-    url: papers
+  - name: Program
+    url: program
     weight: 30
-  - name: Organization
-    url: organization
-    weight: 70
+  - name: Registration
+    url: registration
+    weight: 40
+  - name: Visa
+    url: visa
+    weight: 50
   - name: Venue
     url: venue
     weight: 80
@@ -42,3 +45,7 @@ main:
     parent: others
     url: past
     weight: 92
+  - name: Organization
+    parent: others
+    url: organization
+    weight: 93
