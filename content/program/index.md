@@ -17,7 +17,7 @@
 ##### 10:45-12:00 Session 1: Memory Madness
 
 ###### (1) Virtual Memory Revisited for Tiered Memory
-<p>Oliver Giersch (Brandenburgische Technische Universität Cottbus-Senftenberg); Dustin Nguyen (Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)); Jörg Nolte (BTU Cottbus-Senftenberg); Wolfgang Schröder-Preikschat (FAU)</p>
+<p>Oliver Giersch (Brandenburgische Technische Universität Cottbus-Senftenberg); Dustin Nguyen (Friedrich-Alexander-Universität Erlangen-Nürnberg); Jörg Nolte;Brandenburgische Technische Universität Cottbus-Senftenberg; Wolfgang Schröder-Preikschat (Friedrich-Alexander-Universität Erlangen-Nürnberg)</p>
 
 ###### (2) Persistent Memory I/O-Aware Task Placement for Mitigating Resource Contention
 <p>Hyunwoo Ahn, Jongseok Kim, Euiseong Seo (Sungkyunkwan University)</p>
@@ -72,7 +72,7 @@
 
 ##### 10:45-12:00 Session 5: AI Antics
 
-###### (13) NeuronaBox: Towards a Flexible and High-Fidelity Emulator for Distributed DNN Training
+###### (13) NeuronaBox: Towards a Flexible and High-Fidelity Approach to Distributed DNN Training
 <p>Banruo Liu (Tsinghua University); Mubarak Ojewale (KAUST); Yuhan Ding (Tsinghua University); Marco Canini (KAUST)</p>
 
 ###### (14) SERAPH: A Performance-Cost Aware Tuner for Training Reinforcement Learning Model on Serverless Computing

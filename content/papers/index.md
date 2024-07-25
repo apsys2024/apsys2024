@@ -4,7 +4,7 @@ p { font-size: smaller; }
 </style>
 
 ###### Virtual Memory Revisited for Tiered Memory<br>
-<p>Oliver Giersch (Brandenburgische Technische Universität Cottbus-Senftenberg); Dustin Nguyen (Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)); Jörg Nolte (BTU Cottbus-Senftenberg); Wolfgang Schröder-Preikschat (FAU)</p>
+<p>Oliver Giersch (Brandenburgische Technische Universität Cottbus-Senftenberg); Dustin Nguyen (Friedrich-Alexander-Universität Erlangen-Nürnberg); Jörg Nolte;Brandenburgische Technische Universität Cottbus-Senftenberg; Wolfgang Schröder-Preikschat (Friedrich-Alexander-Universität Erlangen-Nürnberg)</p>
 
 ###### Chaos: Function Granularity Runtime Address Layout Space Randomization for Kernel Module<br>
 <p>Zihao Chang, Jihan Lin (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory); Haifeng Sun (Peking University); Runkuan Li (Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory); Ying Wang (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences); Bin Hu (Institute of Computing Technology, Chinese Academy of Sciences; Zhongguancun Laboratory); Xiaofang Zhao (Institute of Computing Technology, Chinese Academy of Sciences; Zhongguancun Laboratory; Institute of Intelligent Computing Technology, Suzhou, CAS; University of Chinese Academy of Sciences, Nanjing); Dejun Jiang, Sun Ninghui, Sa Wang (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory)</p>
@@ -12,7 +12,7 @@ p { font-size: smaller; }
 ###### Towards Efficient End-to-End Encryption for Container Checkpointing Systems<br>
 <p>Radostin Stoyanov (University of Oxford); Adrian Reber, Daiki Ueno (Red Hat); Michał Cłapiński, Andrei Vagin (Google); Rodrigo Bruno (INESC-ID, Instituto Superior Técnico, Universidade de Lisboa)</p>
 
-###### NeuronaBox: Towards a Flexible and High-Fidelity Emulator for Distributed DNN Training<br>
+###### NeuronaBox: Towards a Flexible and High-Fidelity Approach to Distributed DNN Training<br>
 <p>Banruo Liu (Tsinghua University); Mubarak Ojewale (KAUST); Yuhan Ding (Tsinghua University); Marco Canini (KAUST)</p>
 
 ###### SERAPH: A Performance-Cost Aware Tuner for Training Reinforcement Learning Model on Serverless Computing<br>
