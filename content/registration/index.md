@@ -13,4 +13,4 @@
 AUTHORS OF ACCEPTED PAPERS – at least one author per paper must be register for the workshop and present the paper at the event.
 {{% /callout %}}
 
-The registration site will open soon.
+The registration site will open with a few days.
