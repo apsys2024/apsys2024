@@ -50,8 +50,7 @@ By submitting your article to an ACM Publication, you are hereby acknowledging t
 
 Please ensure that you and your co-authors [obtain an ORCID ID](https://orcid.org/register), so you can complete the publishing process for your accepted paper. ACM has been involved in ORCID from the start and we have recently made a [commitment to collect ORCID IDs from all of our published authors](https://authors.acm.org/author-resources/orcid-faqs). We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts.
 
-Authors should also consult [ACM Publications Policies](https://www.acm.org/publication
-s/policies), especially those around Authors; Plagiarism, Misrepresentation, and Falsification; Research Involving Human Subjects; Prior Publication and Simultaneous Submissions; and Coercion and Abuse; **and the [use of Generative AI in papers](https://www.acm.org/publications/policies/frequently-asked-questions)**.
+Authors should also consult [ACM Publications Policies](https://www.acm.org/publications/policies), especially those around Authors; Plagiarism, Misrepresentation, and Falsification; Research Involving Human Subjects; Prior Publication and Simultaneous Submissions; and Coercion and Abuse; **and the [use of Generative AI in papers](https://www.acm.org/publications/policies/frequently-asked-questions)**.
 
 
 ## Camera-ready Instructions
