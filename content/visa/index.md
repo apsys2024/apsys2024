@@ -6,6 +6,7 @@ A general invitation letter will be issued by ACM and can be requested via the l
 
 https://supportletters.acm.org/
 
+* 7/31 Update: APSys 2024 is now listed in the system. Note that it could take 10 business days to get the invitation letter. If you are in hurry, please contact apsys2024-contact@googlegroups.com. Chinese citizens may request visa-related documents as follows.
 
 ## Visa Application by Chinese Citizens
 
