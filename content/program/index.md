@@ -2,6 +2,19 @@
 ---
 # Program
 
+<style>
+div.program h5 {
+    border-bottom: solid 2px lightblue;
+    border-left: solid 10px lightblue;
+    padding: 0.2rem;
+    margin-bottom: 1.5rem;
+}
+p {
+    font-size: smaller;
+}
+</style>
+<div class="program">
+
 {{% callout info %}}
 25 minutes per presentation
 {{% /callout %}}
@@ -60,13 +73,13 @@
 ##### 09:00-10:15 Session 4: Network Netsense
 
 ###### (10) NotNets: Accelerating Microservices by Bypassing the Network
-<p>Peter Alvaro (U. C. Santa Cruz); Matthew Adiletta (Intel Corporation); David Cheng (Yale University); Adrian Cockcroft (OrionX); Frank Hady, Ramesh Illikkal (Intel Coproration); Esteban Ramos (UC Santa Cruz); Robert Soulé (Yale University)</p>
+<p>Peter Alvaro (U. C. Santa Cruz); Matthew Adiletta (Intel Corporation); David Cheng (Yale University); Adrian Cockcroft (OrionX); Frank Hady, Ramesh Illikkal (Intel Corporation); Esteban Ramos (U. C. Santa Cruz); Robert Soulé (Yale University)</p>
 
 ###### (11) FHA: Flow-level High Availability on Programmable Network Hardware for Cloud Provider
 <p>Ying Chu (USTC & Microsoft Research); Ziyuan Liu (Beihang University & Microsoft Research); Riff Jiang, Ze Gan, Junhua Zhai, Guohan Lu (Microsoft); Zhixiong Niu, Yongqiang Xiong (Microsoft Research)</p>
 
 ###### (12) Split gRPC: An Isolation Architecture for RPC Software Stacks
-<p>Esteban Ramos (UC Santa Cruz); Robert Soulé (Yale University); Peter Alvaro (U. C. Santa Cruz); Pietro Bressana (Intel Corporation); Edmund Chen, Uri Cummings (Unaffiliated); Rui Li (Intel Corporation); James Tsai (Intel Labs); Rajit Manohar (Yale University)</p>
+<p>Esteban Ramos (U. C. Santa Cruz); Robert Soulé (Yale University); Peter Alvaro (U. C. Santa Cruz); Pietro Bressana (Intel Corporation); Edmund Chen, Uri Cummings (Unaffiliated); Rui Li (Intel Corporation); James Tsai (Intel Labs); Rajit Manohar (Yale University)</p>
 
 ##### 10:15-10:45 Break
 
@@ -104,4 +117,6 @@
 ###### (20) ONIONDISK: A Log-Structured Write-Optimal Virtual Block Device
 <p>Shiyu Wang, Zhihao Zhang, Yiming Zhang (Xiamen University)</p>
 
-#### 15:50-16:00 Closing remarks
+##### 15:50-16:00 Closing remarks
+
+</div>
