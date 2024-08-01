@@ -5,11 +5,11 @@
 <style>
 div.program h5 {
     border-bottom: solid 2px lightblue;
-    border-left: solid 10px lightblue;
+    border-left: solid 8px blue;
     padding: 0.2rem;
     margin-bottom: 1.5rem;
 }
-p {
+div.program p {
     font-size: smaller;
 }
 </style>
@@ -65,6 +65,8 @@ p {
 <p>Radostin Stoyanov (University of Oxford); Adrian Reber, Daiki Ueno (Red Hat); Michał Cłapiński, Andrei Vagin (Google); Rodrigo Bruno (INESC-ID, Instituto Superior Técnico, Universidade de Lisboa)</p>
 
 ##### 16:15-17:15 Poster session
+
+[Accepted Posters](/posters/)
 
 ##### 18:00- Banquet
 
