@@ -12,6 +12,10 @@ Best regards,<br>
 {{% mention shina %}}, General Chair<br>
 {{% mention fukai %}}, Sponsor Chair
 
+## Important Date
+
+Registration Deadline: August 9, 2024<br>
+
 ## Current Sponsors
 
 ### Platinum
