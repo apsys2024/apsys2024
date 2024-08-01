@@ -69,6 +69,8 @@ sections:
       title: Overview
       text: |
         Building on the success of its [predecessors](/past/), the 15th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2024) will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. APSys 2024 will be held in Kyoto, Japan on September 4-5, 2024.
+
+        This year's APSys will feature [20 paper presentations](/program/) on memory, kernel, migration, networking, AI, edge & cloud, and concurrency; plus there are [29 poster presentations](/posters/).
         <!--
         APSys takes a broad view of systems, including but no limited to: operating systems, virtualization, file and storage systems, networked systems, mobile systems, embedded and IoT systems, cloud computing and data centers, edge computing, big data systems, distributed systems, green and sustainable computing, debugging/testing/verification, measurement/monitoring/modeling, reliability/scalability/fault tolerance, security and privacy, systems for machine learning, machine learning for systems, hardware and software interaction, experience with deployed systems, and blockchain and cryptocurrency systems.
         -->
@@ -112,7 +114,7 @@ sections:
         </style>
         <div class="text-center">
         <h3>Platinum Sponsor</h3>
-        (To appear)
+        (IBM)
 
         <h3>Gold Sponsor</h3>
         <div class="row align-items-center">
@@ -127,9 +129,9 @@ sections:
 
         <div class="row align-items-center">
         <div class="col-md">
-        (To appear)<br>
-        (To appear)
-        </div>
+        (BlackBerry Japan)<br>
+        (SAKURA internet Inc.)<br>
+        (TIS Inc.)</div>
         </div>
 
         <h3>Bronze Sponsor</h3>
@@ -142,7 +144,8 @@ sections:
         </div>
         </div>
         <div class="col-md">
-        (To appear)
+        (SoftEther Corporation)<br>
+        (Fixstars Corporation)
         </div>
         </div>
 

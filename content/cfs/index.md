@@ -20,18 +20,20 @@ Registration Deadline: August 9, 2024<br>
 
 ### Platinum
 
-- IBM (coming soon...)
+- IBM
 
 ### Gold
 
 - Ant Research
 - Western Digital
-- SAKURA Internet (coming soon...)
-- ??? (coming soon...)
-
-### Silver
+- BlackBerry Japan
+- SAKURA internet Inc.
+- TIS Inc.
+</div>
 
 ### Bronze
 
 - IGEL Co., Ltd
 - LY Corporation
+- SoftEther Corporation
+- Fixstars Corporation
