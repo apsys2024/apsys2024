@@ -1,5 +1,5 @@
 ---
-title: "Accepted Posters are available"
+title: "Accepted posters are available"
 date: 2024-08-01
 all_day: true
 featured: false
