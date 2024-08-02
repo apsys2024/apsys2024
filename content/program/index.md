@@ -9,6 +9,9 @@ div.program h5 {
     padding: 0.2rem;
     margin-bottom: 1.5rem;
 }
+div.program h5.break {
+    border-left: solid 8px gray;
+}
 div.program p {
     font-size: smaller;
 }
@@ -25,7 +28,9 @@ div.program p {
 
 ##### 09:15-10:15 Keynote
 
-##### 10:15-10:45 Break
+TBD
+
+<h5 class="break">10:15-10:45 Break</h5>
 
 ##### 10:45-12:00 Session 1: Memory Madness
 
@@ -38,7 +43,7 @@ div.program p {
 ###### (3) Polar: A Managed Runtime with Hotness-Segregated Heap for Far Memory
 <p>Dat Nguyen, Khanh Nguyen (Texas A&M University)</p>
 
-##### 12:00-13:15 Lunch (on your own)
+<h5 class="break">12:00-13:15 Lunch (on your own)</h5>
 
 ##### 13:15-14:30 Session 2: Kernel Kraziness
 
@@ -51,7 +56,7 @@ div.program p {
 ###### (6) Developing Process Scheduling Policies in User Space with Common OS Features
 <p>Kenichi Yasukata (IIJ Research Laboratory); Kenta Ishiguro (Keio University)</p>
 
-##### 14:30-15:00 Break
+<h5 class="break">14:30-15:00 Break</h5>
 
 ##### 15:00-16:15 Session 3: Migration Mayhem
 
@@ -66,7 +71,7 @@ div.program p {
 
 ##### 16:15-17:15 Poster session
 
-[Accepted Posters](/posters/)
+###### [Accepted Posters](/posters/)
 
 ##### 18:00- Banquet
 
@@ -83,7 +88,7 @@ div.program p {
 ###### (12) Split gRPC: An Isolation Architecture for RPC Software Stacks
 <p>Esteban Ramos (U. C. Santa Cruz); Robert Soulé (Yale University); Peter Alvaro (U. C. Santa Cruz); Pietro Bressana (Intel Corporation); Edmund Chen, Uri Cummings (Unaffiliated); Rui Li (Intel Corporation); James Tsai (Intel Labs); Rajit Manohar (Yale University)</p>
 
-##### 10:15-10:45 Break
+<h5 class="break">10:15-10:45 Break</h5>
 
 ##### 10:45-12:00 Session 5: AI Antics
 
@@ -96,7 +101,7 @@ div.program p {
 ###### (15) BMoss: Reconfigurable hardware accelerator for scalable plagiarism detection
 <p>Esmerald Aliaj, Alberto Krone-Martins, Sang-Woo Jun (University of California, Irvine)</p>
 
-##### 12:00-13:15 Lunch (on your own)
+<h5 class="break">12:00-13:15 Lunch (on your own)</h5>
 
 ##### 13:15-14:30 Session 6: Edge and Cloud Capers
 
@@ -109,7 +114,7 @@ div.program p {
 ###### (18) Faster FUSE Filesystems with Efficient Data Transfers
 <p>Giorgos Kappes, Stergios V. Anastasiadis (University of Ioannina)</p>
 
-##### 14:30-15:00 Break
+<h5 class="break">14:30-15:00 Break</h5>
 
 ##### 15:00-15:50 Session 7: Concurrency Chaos
 
