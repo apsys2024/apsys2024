@@ -43,6 +43,9 @@ main:
   - name: Visa
     url: visa
     weight: 50
+  - name: Hotel
+    url: hotel
+    weight: 60
   - name: Venue
     url: venue
     weight: 80
