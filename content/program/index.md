@@ -58,7 +58,7 @@ div.program p {
 ###### (7) SmartNIC-enabled Live Migration for Storage Optimized VMs
 <p>Jiechen Zhao (Microsoft Research/University of Toronto); Ran Shu, Lei Qu, Ziyue Yang (Microsoft Research); Natalie Enright Jerger (University of Toronto); Derek Chiou (University of Texas at Austin/Microsoft); Peng Cheng, Yongqiang Xiong (Microsoft Research)</p>
 
-###### (8) Live Migration of Arm-based Confidential VMs
+###### (8) Designing and Implementing Live Migration Support for Arm-based Confidential VMs
 <p>Fang-Jie Yang, Jian-Lin Li (National Taiwan University); Kaiwen Xue (Carnegie Mellon University); Shih-Wei Li (National Taiwan University)</p>
 
 ###### (9) Towards Efficient End-to-End Encryption for Container Checkpointing Systems
@@ -87,7 +87,7 @@ div.program p {
 
 ##### 10:45-12:00 Session 5: AI Antics
 
-###### (13) NeuronaBox: Towards a Flexible and High-Fidelity Approach to Distributed DNN Training
+###### (13) Towards a Flexible and High-Fidelity Approach to Distributed DNN Training Emulation
 <p>Banruo Liu (Tsinghua University); Mubarak Ojewale (KAUST); Yuhan Ding (Tsinghua University); Marco Canini (KAUST)</p>
 
 ###### (14) SERAPH: A Performance-Cost Aware Tuner for Training Reinforcement Learning Model on Serverless Computing
