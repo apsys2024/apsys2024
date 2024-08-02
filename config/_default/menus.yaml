@@ -23,8 +23,20 @@ main:
     url: cfs
     weight: 23
   - name: Program
-    url: program
+    identifier: program
     weight: 30
+  - name: Program
+    parent: program
+    url: program
+    weight: 31
+  - name: Posters
+    parent: program
+    url: posters
+    weight: 32
+  - name: Accepted Papers
+    parent: program
+    url: papers
+    weight: 33
   - name: Registration
     url: registration
     weight: 40
