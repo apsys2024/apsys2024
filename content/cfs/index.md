@@ -29,6 +29,7 @@ Registration Deadline: August 9, 2024<br>
 - BlackBerry Japan
 - SAKURA internet Inc.
 - TIS Inc.
+- HUAWEI
 </div>
 
 ### Bronze
