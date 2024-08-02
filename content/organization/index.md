@@ -16,6 +16,7 @@ sections:
           - Sponsor Chair
           - Publication Chair
           - Publicity Co-Chairs
+          - Web Chair
       sort_by: Params.last_name
       sort_ascending: true
     design:
