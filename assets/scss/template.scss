@@ -4,7 +4,8 @@
 
 .wg-hero {
     margin: 0 !important;
-    width: 100%
+    width: 100%;
+    padding-top: 0;
 }
 
 .hero-title {
@@ -68,7 +69,6 @@ h4, .h4 {
 h5, .h5 {
     font-size: 1.15rem;
 }
-
 h6, .h6 {
   font-size: 1rem; }
 
@@ -84,3 +84,5 @@ h6, .h6 {
 .cta-group li a.btn {
     font-size: large;
 }
+
+
