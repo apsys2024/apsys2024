@@ -68,9 +68,9 @@ sections:
     content:
       title: Overview
       text: |
-        Building on the success of its [predecessors](/past/), the 15th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2024) will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. This year's APSys 2024 will be held in Kyoto, Japan on September 4-5, 2024.
+        Building on the success of its [predecessors](/past/), the 15th ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2024) will continue to be a lively forum for systems researchers and practitioners across the world to meet, interact, and collaborate with their peers from the Asia/Pacific region. APSys 2024 will be held in Kyoto, Japan on September 4-5, 2024.
 
-        APSys 2024 will feature [20 paper presentations](/program/) on memory, kernel, migration, networking, AI, edge & cloud, and concurrency, as well as [29 poster presentations](/posters/). In addition, [10 companies](#sponsors) generously sponsor APSys 2024!
+        APSys 2024 will feature [20 paper presentations](/program/) on memory, kernel, migration, networking, AI, edge & cloud, and concurrency, as well as [29 poster presentations](/posters/). In addition, [11 companies](#sponsors) generously sponsor APSys 2024!
         <!--
         APSys takes a broad view of systems, including but no limited to: operating systems, virtualization, file and storage systems, networked systems, mobile systems, embedded and IoT systems, cloud computing and data centers, edge computing, big data systems, distributed systems, green and sustainable computing, debugging/testing/verification, measurement/monitoring/modeling, reliability/scalability/fault tolerance, security and privacy, systems for machine learning, machine learning for systems, hardware and software interaction, experience with deployed systems, and blockchain and cryptocurrency systems.
         -->
@@ -128,7 +128,8 @@ sections:
         <div class="col-md">
         (BlackBerry Japan)<br>
         (SAKURA internet Inc.)<br>
-        (TIS Inc.)</div>
+        (TIS Inc.)<br>
+        (HUAWEI)</div>
         </div>
 
         <h3>Bronze Sponsor</h3>
