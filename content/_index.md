@@ -59,7 +59,7 @@ sections:
               brightness: 0.7
           position: top
     design:
-      slide_height: '20rem'
+      slide_height: '16rem'
       is_fullscreen: false
       loop: true
       interval: 4000
@@ -111,7 +111,7 @@ sections:
         </style>
         <div class="text-center">
         <h3>Platinum Sponsor</h3>
-        (IBM)
+        {{< figure src="logos/ibm.png" link="https://www.ibm.com/" img_class="p-4 mx-auto d-block" width="300" >}}
 
         <h3>Gold Sponsor</h3>
         <div class="row align-items-center">
