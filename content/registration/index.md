@@ -21,4 +21,6 @@ BANQUET - Each registration includes one banquet ticket. You can also buy additi
 BANQUET - If you register after August 31, you will not be able to attend the banquet in any case.
 {{% /callout %}}
 
+<!--
 {{< cta cta_text="Start Registration" cta_link="https://cvent.me/lnOYo2" cta_new_tab="true" >}}
+-->

@@ -77,7 +77,9 @@ sections:
 
         <div class="row">
         <div class="col">
+        <!--
         {{< cta cta_text="Registration" cta_link="/registration/" cta_new_tab="false" >}}
+        -->
         </div>
         </div>
     design:
