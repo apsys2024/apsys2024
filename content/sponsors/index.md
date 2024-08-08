@@ -2,7 +2,7 @@
 
 <div class="text-center">
 
-### Platinum Sponsor
+<h3 class="gradient-platinum p-1 rounded">Platinum</h3>
 
 <div class="row align-items-center bg-white">
 <div class="col-md">
@@ -10,7 +10,7 @@
 </div>
 </div>
 
-### Gold Sponsor
+<h3 class="gradient-gold p-1 rounded">Gold</h3>
 
 <div class="row align-items-center bg-white">
 <div class="col-md">
@@ -22,20 +22,23 @@
 </div>
 
 <div class="col-md">
-{{< figure src="sakura-1-1-basic-rgb-whiteback.svg" link="https://www.sakura.ad.jp/corporate/en/" img_class="mx-auto d-block" max_width="250px" >}}
+(BlackBerry Japan)<br>
 </div>
 </div>
 
 <div class="row align-items-center bg-white">
 <div class="col-md">
-        (BlackBerry Japan)<br>
-        (TIS Inc.)<br>
-        (HUAWEI)
+{{< figure src="sakura-1-1-basic-rgb-whiteback.svg" link="https://www.sakura.ad.jp/corporate/en/" img_class="mx-auto d-block" max_width="250px" >}}
+</div>
+<div class="col-md">
+(TIS Inc.)<br>
+</div>
+<div class="col-md">
+{{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="250px" >}}
 </div>
 </div>
 
-
-### Bronze Sponsor
+<h3 class="gradient-bronze p-1 rounded">Bronze</h3>
 
 <div class="row align-items-center bg-white">
 <div class="col-md">
@@ -46,7 +49,6 @@
 </div>
 <div class="col-md">
 {{< figure src="softether_banner.png" link="https://www.softether.org/" img_class="mx-auto d-block" max_width="130px">}}
-</div>
 </div>
 <div class="col-md">
 (Fixstars Corporation)

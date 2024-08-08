@@ -120,27 +120,27 @@ sections:
         <div class="row align-items-center">
 
         <div class="col-md-4 mt-2">
-        {{< figure src="AntResearch-logo.svg" link="https://www.antgroup.com/en/" img_class="mx-auto d-block" max_width="200px">}}
+        {{< figure src="AntResearch-logo.svg" link="https://www.antgroup.com/en/" img_class="mx-auto d-block" max_width="250px">}}
         </div>
 
         <div class="col-md-4 mt-2">
-        {{< figure src="WDC.Logo.11-PrimaryWordmarkHero.Color-RGB.WW.052622.svg" link="https://www.westerndigital.com/" img_class="mx-auto d-block" max_width="230px" >}}
+        {{< figure src="WDC.Logo.11-PrimaryWordmarkHero.Color-RGB.WW.052622.svg" link="https://www.westerndigital.com/" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
 
         <div class="col-md-4 mt-2">
-        {{< figure src="sakura-1-1-basic-rgb-whiteback.svg" link="https://www.sakura.ad.jp/corporate/en/" img_class="mx-auto d-block" max_width="250px" >}}
+        (BlackBerry Japan)
         </div>
         </div>
 
         <div class="row align-items-center">
         <div class="col-md-4 mt-2">
-        (BlackBerry Japan)
+        {{< figure src="sakura-1-1-basic-rgb-whiteback.svg" link="https://www.sakura.ad.jp/corporate/en/" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
         <div class="col-md-4 mt-2">
         (TIS Inc.)
         </div>
         <div class="col-md-4 mt-2">
-        (HUAWEI)
+        {{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
         </div>
 
