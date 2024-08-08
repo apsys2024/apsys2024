@@ -74,7 +74,6 @@ sections:
         <!--
         APSys takes a broad view of systems, including but no limited to: operating systems, virtualization, file and storage systems, networked systems, mobile systems, embedded and IoT systems, cloud computing and data centers, edge computing, big data systems, distributed systems, green and sustainable computing, debugging/testing/verification, measurement/monitoring/modeling, reliability/scalability/fault tolerance, security and privacy, systems for machine learning, machine learning for systems, hardware and software interaction, experience with deployed systems, and blockchain and cryptocurrency systems.
         -->
-
         <div class="row">
         <div class="col">
         {{< cta cta_text="Registration" cta_link="/registration/" cta_new_tab="false" >}}
@@ -104,57 +103,71 @@ sections:
 
   - block: markdown
     content:
+      title: Sponsors
       text: |
-        # Sponsors {#sponsors}
-        <style>
-        .dark .home-section figure { background: white; }
-        </style>
-        <div class="text-center">
-        <h3>Platinum Sponsor</h3>
-        {{< figure src="logos/ibm.png" link="https://www.ibm.com/" img_class="p-4 mx-auto d-block" width="300" >}}
+        <div class="text-center mb-3 bg-white">
 
-        <h3>Gold Sponsor</h3>
-        <div class="row align-items-center">
-        <div class="col-md">
-        {{< figure src="logos/AntResearch-logo.svg" link="https://www.antgroup.com/en/" img_class="p-4 mx-auto d-block" width="300" >}}
-        </div>
-
-        <div class="col-md">
-        {{< figure src="logos/WDC.Logo.11-PrimaryWordmarkHero.Color-RGB.WW.052622.svg" link="https://www.westerndigital.com/" img_class="mx-auto d-block" width="300" >}}
-        </div>
-        </div>
+        <h3 class="gradient-platinum p-1 rounded">Platinum</h3>
 
         <div class="row align-items-center">
         <div class="col-md">
-        (BlackBerry Japan)<br>
-        (SAKURA internet Inc.)<br>
-        (TIS Inc.)<br>
-        (HUAWEI)</div>
+        {{< figure src="ibm.png" link="https://www.ibm.com/" img_class="mx-auto d-block" max_width="300px" >}}
+        </div>
         </div>
 
-        <h3>Bronze Sponsor</h3>
+        <h3 class="gradient-gold p-1 rounded">Gold</h3>
+
         <div class="row align-items-center">
-        <div class="col-md">
-        {{< figure src="logos/igel_logo_100219.png" link="https://www.igel.co.jp/en/" img_class="mx-auto d-block" width="150">}}
+
+        <div class="col-md-4 mt-2">
+        {{< figure src="AntResearch-logo.svg" link="https://www.antgroup.com/en/" img_class="mx-auto d-block" max_width="200px">}}
         </div>
-        <div class="col-md">
-        {{< figure src="logos/LY.png" link="https://www.lycorp.co.jp/en/" img_class="p-5 mx-auto d-block" width="165">}}
+
+        <div class="col-md-4 mt-2">
+        {{< figure src="WDC.Logo.11-PrimaryWordmarkHero.Color-RGB.WW.052622.svg" link="https://www.westerndigital.com/" img_class="mx-auto d-block" max_width="230px" >}}
+        </div>
+
+        <div class="col-md-4 mt-2">
+        {{< figure src="sakura-1-1-basic-rgb-whiteback.svg" link="https://www.sakura.ad.jp/corporate/en/" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
         </div>
-        <div class="col-md">
-        (SoftEther Corporation)<br>
+
+        <div class="row align-items-center">
+        <div class="col-md-4 mt-2">
+        (BlackBerry Japan)
+        </div>
+        <div class="col-md-4 mt-2">
+        (TIS Inc.)
+        </div>
+        <div class="col-md-4 mt-2">
+        (HUAWEI)
+        </div>
+        </div>
+
+        <h3 class="gradient-bronze p-1 rounded">Bronze</h3>
+
+        <div class="row align-items-center">
+        <div class="col-md-3 mt-4">
+        {{< figure src="igel_logo_100219.png" link="https://www.igel.co.jp/en/" img_class="mx-auto d-block" max_width="60px">}}
+        </div>
+        <div class="col-md-3 mt-4">
+        {{< figure src="LY.png" link="https://www.lycorp.co.jp/en/" img_class="mx-auto d-block" max_width="50px">}}
+        </div>
+        <div class="col-md-3 mt-4">
+        {{< figure src="softether_banner.png" link="https://www.softether.org/" img_class="mx-auto d-block" max_width="130px">}}
+        </div>
+        <div class="col-md-3 mt-4">
         (Fixstars Corporation)
         </div>
         </div>
 
         </div>
 
-
   - block: markdown
     content:
       title: Organization
       text: |
-        {{< figure src="logos/sigops.png" link="https://www.sigops.org/" img_class="mx-auto d-block" width="200">}}
+        {{< figure src="sigops.png" link="https://www.sigops.org/" img_class="mx-auto d-block" width="200">}}
 
 # - block: markdown
 #   content:
