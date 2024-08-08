@@ -22,6 +22,10 @@ main:
     parent: calls
     url: cfs
     weight: 23
+  - name: Call for Volunteers
+    parent: calls
+    url: cfv
+    weight: 24
   - name: Program
     identifier: program
     weight: 30
@@ -46,6 +50,9 @@ main:
   - name: Hotel
     url: hotel
     weight: 60
+  - name: Sponsors
+    url: sponsors
+    weight: 70
   - name: Venue
     url: venue
     weight: 80
