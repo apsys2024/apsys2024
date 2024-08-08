@@ -120,7 +120,7 @@ sections:
         <div class="row align-items-center">
 
         <div class="col-md-4 mt-2">
-        {{< figure src="AntResearch-logo.svg" link="https://www.antgroup.com/en/" img_class="mx-auto d-block" max_width="250px">}}
+        {{< figure src="AntResearch-logo.svg" link="https://www.antgroup.com/en/" img_class="mx-auto d-block" max_width="200px">}}
         </div>
 
         <div class="col-md-4 mt-2">
@@ -137,7 +137,7 @@ sections:
         {{< figure src="sakura-1-1-basic-rgb-whiteback.svg" link="https://www.sakura.ad.jp/corporate/en/" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
         <div class="col-md-4 mt-2">
-        (TIS Inc.)
+        {{< figure src="TIS_yoko_color_RGB+.png" link="https://www.tis.com/" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
         <div class="col-md-4 mt-2">
         {{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="250px" >}}
