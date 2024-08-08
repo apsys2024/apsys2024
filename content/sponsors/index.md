@@ -1,9 +1,6 @@
-<style>
-.dark .home-section figure { background: white; }
-</style>
-<div class="text-center">
-
 # Sponsors {#sponsors}
+
+<div class="text-center">
 
 ### Platinum Sponsor
 
