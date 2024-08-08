@@ -60,9 +60,9 @@ https://www.sakura.ad.jp/corporate/en/
 </div>
 <div class="col-md-8">
 Make society’s wishes come true through IT.
-　Using advanced technology and know-how, we will add a new dimension of vitality to society and bring smiles to the faces of more people.
-　Our presence will underpin the creation of this kind of society.
-　The TIS INTEC Group will continue to make society’s wishes come true through the power of IT.
+Using advanced technology and know-how, we will add a new dimension of vitality to society and bring smiles to the faces of more people.
+Our presence will underpin the creation of this kind of society.
+The TIS INTEC Group will continue to make society’s wishes come true through the power of IT.
 
 https://www.tis.com/
 </div>
