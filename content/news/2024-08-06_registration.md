@@ -1,5 +1,5 @@
 ---
-title: "Registration started"
+title: "APSys 2024 Registration started"
 date: 2024-08-06
 all_day: true
 featured: false
