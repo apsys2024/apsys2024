@@ -111,7 +111,7 @@ sections:
 
         <div class="row align-items-center">
         <div class="col-md">
-        {{< figure src="ibm.png" link="https://www.ibm.com/" img_class="mx-auto d-block" max_width="300px" >}}
+        {{< figure src="ibm.png" link="https://research.ibm.com/" img_class="mx-auto d-block" max_width="300px" >}}
         </div>
         </div>
 
@@ -120,7 +120,7 @@ sections:
         <div class="row align-items-center">
 
         <div class="col-md-4 mt-2">
-        {{< figure src="AntResearch-logo.svg" link="https://www.antgroup.com/en/" img_class="mx-auto d-block" max_width="200px">}}
+        {{< figure src="AntResearch-logo.svg" link="https://www.antresearch.com/" img_class="mx-auto d-block" max_width="200px">}}
         </div>
 
         <div class="col-md-4 mt-2">

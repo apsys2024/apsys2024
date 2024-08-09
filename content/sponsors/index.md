@@ -6,7 +6,7 @@
 
 <div class="row align-items-center">
 <div class="col-md-4">
-{{< figure src="ibm.png" link="https://www.ibm.com/" img_class="mx-auto d-block" max_width="300px" >}}
+{{< figure src="ibm.png" link="https://research.ibm.com/" img_class="mx-auto d-block" max_width="300px" >}}
 </div>
 <div class="col-md-8">
 </div>
@@ -16,7 +16,7 @@
 
 <div class="row py-4">
 <div class="col-md-4 align-self-center">
-{{< figure src="AntResearch-logo.svg" link="https://www.antgroup.com/en/" img_class="mx-auto d-block" max_width="200px">}}
+{{< figure src="AntResearch-logo.svg" link="https://www.antresearch.com/" img_class="mx-auto d-block" max_width="200px">}}
 </div>
 <div class="col-md-8">
 To further accelerate Ant Group's technology development, optimize the innovation framework, and bring deep insights into technology evolution, Ant Group launched Ant Research in April 2021.
