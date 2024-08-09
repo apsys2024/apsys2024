@@ -128,7 +128,7 @@ sections:
         </div>
 
         <div class="col-md-4 mt-2">
-        (BlackBerry Japan)
+        {{< figure src="BlackBerry QNX Horizontal.png" link="https://blackberry.qnx.com/en" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
         </div>
 

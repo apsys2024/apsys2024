@@ -36,7 +36,7 @@ https://www.antgroup.com/en/
 
 <div class="row py-4">
 <div class="col-md-4 align-self-center">
-(BlackBerry Japan)
+{{< figure src="BlackBerry QNX Horizontal.png" link="https://blackberry.qnx.com/en" img_class="mx-auto d-block" max_width="250px" >}}
 </div>
 <div class="col-md-8">
 </div>
