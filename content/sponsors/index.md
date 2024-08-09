@@ -9,6 +9,8 @@
 {{< figure src="ibm.png" link="https://research.ibm.com/" img_class="mx-auto d-block" max_width="300px" >}}
 </div>
 <div class="col-md-8">
+
+https://research.ibm.com/
 </div>
 </div>
 
@@ -22,7 +24,7 @@
 To further accelerate Ant Group's technology development, optimize the innovation framework, and bring deep insights into technology evolution, Ant Group launched Ant Research in April 2021.
 Ant Research is dedicated to innovative and practical scientific research. Looking forward to a digitalized future, Ant Research focuses on developing cutting-edge technologies and resolving technical challenges to support Ant Group's business operation and provide a technical foundation for digitalized and intelligent development.
 
-https://www.antgroup.com/en/
+https://www.antresearch.com/
 </div>
 </div>
 
@@ -31,6 +33,8 @@ https://www.antgroup.com/en/
 {{< figure src="WDC.Logo.11-PrimaryWordmarkHero.Color-RGB.WW.052622.svg" link="https://www.westerndigital.com/" img_class="mx-auto d-block" max_width="250px" >}}
 </div>
 <div class="col-md-8">
+
+https://www.westerndigital.com/
 </div>
 </div>
 
@@ -39,6 +43,8 @@ https://www.antgroup.com/en/
 {{< figure src="BlackBerry QNX Horizontal.png" link="https://blackberry.qnx.com/en" img_class="mx-auto d-block" max_width="250px" >}}
 </div>
 <div class="col-md-8">
+
+https://blackberry.qnx.com/en
 </div>
 </div>
 
@@ -87,6 +93,8 @@ https://www.huawei.com/
 {{< figure src="igel_logo_100219.png" link="https://www.igel.co.jp/en/" img_class="mx-auto d-block" max_width="60px">}}
 </div>
 <div class="col-md-8">
+
+https://www.igel.co.jp/en/
 </div>
 </div>
 
@@ -95,6 +103,8 @@ https://www.huawei.com/
 {{< figure src="LY.png" link="https://www.lycorp.co.jp/en/" img_class="mx-auto d-block" max_width="60px">}}
 </div>
 <div class="col-md-8">
+
+https://www.lycorp.co.jp/en/
 </div>
 </div>
 
