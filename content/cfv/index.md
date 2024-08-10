@@ -2,7 +2,7 @@
 
 APSys 2024 calls for student volunteers who can help us operate the workshop.
 The merits of being a student volunteer includes, but not limited to:
-- Building live connection with world-class researches in the systems field
+- Building live connection with world-class researchers in the systems field
 - Making friends / discussing on systems topic with fellow students from all over the world
 - Exploring around Kyoto and nearby area, if time permits :)
 
