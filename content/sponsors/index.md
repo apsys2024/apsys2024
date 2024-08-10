@@ -1,7 +1,6 @@
 # Sponsors {#sponsors}
 
 <div class="mb-3 bg-white text-dark">
-
 <h3 class="text-center gradient-platinum p-2 rounded">Platinum</h3>
 
 <div class="row align-items-center">
@@ -54,6 +53,7 @@ https://blackberry.qnx.com/en
 </div>
 <div class="col-md-8">
 Turning “WHAT YOU WANT TO DO” into “WHAT YOU CAN DO”
+
 At SAKURA internet, we have a vision to build a society that helps everyone who tries with great enthusiasm make what they want to do a reality with the use of the internet. Based on our strong belief that the internet has the potential to bring joy to people and society, we will provide various solutions that turns “what you want to do” into “what you can do”. We value envisioning the future for customers, employees, local communities and all other stakeholders.
 
 https://www.sakura.ad.jp/corporate/en/
@@ -62,7 +62,7 @@ https://www.sakura.ad.jp/corporate/en/
 
 <div class="row py-4">
 <div class="col-md-4 align-self-center">
-{{< figure src="TIS_yoko_color_RGB+.png" link="https://www.tis.com/" img_class="mx-auto d-block" max_width="250px" >}}
+{{< figure src="TIS_yoko_color_RGB+.png" link="https://www.tis.com/" img_class="mx-auto d-block" max_width="200px" >}}
 </div>
 <div class="col-md-8">
 Make society’s wishes come true through IT.
@@ -76,7 +76,7 @@ https://www.tis.com/
 
 <div class="row py-4">
 <div class="col-md-4">
-{{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="250px" >}}
+{{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="200px" >}}
 </div>
 <div class="col-md-8">
 Huawei: Founded in 1987, Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices. We have 207,000 employees and operate in over 170 countries and regions, serving more than three billion people around the world. We are committed to bringing digital to every person, home and organization for a fully connected, intelligent world.
@@ -108,7 +108,7 @@ https://www.lycorp.co.jp/en/
 </div>
 </div>
 
-<div class="row py-4">
+<div class="row align-items-center">
 <div class="col-md-4">
 {{< figure src="softether_banner.png" link="https://www.softether.org/" img_class="mx-auto d-block" max_width="130px">}}
 </div>
@@ -117,11 +117,13 @@ SoftEther VPN ("SoftEther" means "Software Ethernet") is one of the world's most
 </div>
 </div>
 
-<div class="row py-4">
+<div class="row align-items-center">
 <div class="col-md-4">
-(Fixstars Corporation)
+{{< figure src="fixstars-full-color-light.png" link="https://www.fixstars.com/en" img_class="mx-auto d-block" max_width="130px">}}
 </div>
 <div class="col-md-8">
+
+https://www.fixstars.com/en
 </div>
 </div>
 

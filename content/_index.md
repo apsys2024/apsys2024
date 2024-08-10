@@ -137,10 +137,10 @@ sections:
         {{< figure src="sakura-1-1-basic-rgb-whiteback.svg" link="https://www.sakura.ad.jp/corporate/en/" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
         <div class="col-md-4 mt-2">
-        {{< figure src="TIS_yoko_color_RGB+.png" link="https://www.tis.com/" img_class="mx-auto d-block" max_width="250px" >}}
+        {{< figure src="TIS_yoko_color_RGB+.png" link="https://www.tis.com/" img_class="mx-auto d-block" max_width="200px" >}}
         </div>
         <div class="col-md-4 mt-2">
-        {{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="250px" >}}
+        {{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="200px" >}}
         </div>
         </div>
 
@@ -157,7 +157,7 @@ sections:
         {{< figure src="softether_banner.png" link="https://www.softether.org/" img_class="mx-auto d-block" max_width="130px">}}
         </div>
         <div class="col-md-3 mt-4">
-        (Fixstars Corporation)
+        {{< figure src="fixstars-full-color-light.png" link="https://www.fixstars.com/en" img_class="mx-auto d-block" max_width="130px">}}
         </div>
         </div>
 
@@ -167,7 +167,9 @@ sections:
     content:
       title: Organization
       text: |
+        <div class="text-center mb-3 bg-white">
         {{< figure src="sigops.png" link="https://www.sigops.org/" img_class="mx-auto d-block" width="200">}}
+        </div>
 
 # - block: markdown
 #   content:
