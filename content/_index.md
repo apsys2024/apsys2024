@@ -75,9 +75,17 @@ sections:
         APSys takes a broad view of systems, including but no limited to: operating systems, virtualization, file and storage systems, networked systems, mobile systems, embedded and IoT systems, cloud computing and data centers, edge computing, big data systems, distributed systems, green and sustainable computing, debugging/testing/verification, measurement/monitoring/modeling, reliability/scalability/fault tolerance, security and privacy, systems for machine learning, machine learning for systems, hardware and software interaction, experience with deployed systems, and blockchain and cryptocurrency systems.
         -->
         <div class="row">
-        <div class="col">
+        <div class="col-md-3"></div>
+        <div class="col-md-2">
+        {{< cta cta_text="Program" cta_link="/program/" cta_new_tab="false" >}}
+        </div>
+        <div class="col-md-2">
         {{< cta cta_text="Registration" cta_link="/registration/" cta_new_tab="false" >}}
         </div>
+        <div class="col-md-2">
+        {{< cta cta_text="Brochure" cta_link="/APSys2024Brochure.pdf" cta_new_tab="false" >}}
+        </div>
+        <div class="col-md-3"></div>
         </div>
     design:
       columns: '1'
@@ -107,7 +115,7 @@ sections:
       text: |
         <div class="text-center mb-3 bg-white">
 
-        <h3 class="gradient-platinum p-1 rounded">Platinum</h3>
+        <h3 class="gradient-platinum p-2 rounded">Platinum</h3>
 
         <div class="row align-items-center">
         <div class="col-md">
@@ -115,49 +123,48 @@ sections:
         </div>
         </div>
 
-        <h3 class="gradient-gold p-1 rounded">Gold</h3>
+        <h3 class="gradient-gold p-2 mb-4 rounded">Gold</h3>
 
         <div class="row align-items-center">
-
-        <div class="col-md-4 mt-2">
-        {{< figure src="AntResearch-logo.svg" link="https://www.antresearch.com/" img_class="mx-auto d-block" max_width="200px">}}
+        <div class="col-md-4 p-4">
+        {{< figure src="AntResearch-logo.svg" link="https://www.antresearch.com/" img_class="mx-auto d-block" max_width="220px">}}
         </div>
 
-        <div class="col-md-4 mt-2">
-        {{< figure src="WDC.Logo.11-PrimaryWordmarkHero.Color-RGB.WW.052622.svg" link="https://www.westerndigital.com/" img_class="mx-auto d-block" max_width="250px" >}}
+        <div class="col-md-4 p-4">
+        {{< figure src="WDC.Logo.11-PrimaryWordmarkHero.Color-RGB.WW.052622.svg" link="https://www.westerndigital.com/" img_class="mx-auto d-block" max_width="220px" >}}
         </div>
 
-        <div class="col-md-4 mt-2">
-        {{< figure src="BlackBerry QNX Horizontal.png" link="https://blackberry.qnx.com/en" img_class="mx-auto d-block" max_width="250px" >}}
+        <div class="col-md-4 p-4">
+        {{< figure src="BlackBerry QNX Horizontal.png" link="https://blackberry.qnx.com/en" img_class="mx-auto d-block" max_width="280px" >}}
         </div>
         </div>
 
         <div class="row align-items-center">
-        <div class="col-md-4 mt-2">
+        <div class="col-md-4 p-4">
         {{< figure src="sakura-1-1-basic-rgb-whiteback.svg" link="https://www.sakura.ad.jp/corporate/en/" img_class="mx-auto d-block" max_width="250px" >}}
         </div>
-        <div class="col-md-4 mt-2">
+        <div class="col-md-4 p-4">
         {{< figure src="TIS_yoko_color_RGB+.png" link="https://www.tis.com/" img_class="mx-auto d-block" max_width="200px" >}}
         </div>
-        <div class="col-md-4 mt-2">
-        {{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="200px" >}}
+        <div class="col-md-4 p-4">
+        {{< figure src="HW_POS_RGB_Horizontal-300ppi.png" link="https://www.huawei.com/" img_class="mx-auto d-block" max_width="220px" >}}
         </div>
         </div>
 
-        <h3 class="gradient-bronze p-1 rounded">Bronze</h3>
+        <h3 class="gradient-bronze p-2 rounded">Bronze</h3>
 
         <div class="row align-items-center">
-        <div class="col-md-3 mt-4">
-        {{< figure src="igel_logo_100219.png" link="https://www.igel.co.jp/en/" img_class="mx-auto d-block" max_width="60px">}}
+        <div class="col-md-3 p-4">
+        {{< figure src="igel_logo_100219.png" link="https://www.igel.co.jp/en/" img_class="mx-auto d-block" max_width="80px">}}
         </div>
-        <div class="col-md-3 mt-4">
-        {{< figure src="LY.png" link="https://www.lycorp.co.jp/en/" img_class="mx-auto d-block" max_width="50px">}}
+        <div class="col-md-3 p-4">
+        {{< figure src="LY.png" link="https://www.lycorp.co.jp/en/" img_class="mx-auto d-block" max_width="70px">}}
         </div>
-        <div class="col-md-3 mt-4">
-        {{< figure src="softether_banner.png" link="https://www.softether.org/" img_class="mx-auto d-block" max_width="130px">}}
+        <div class="col-md-3 p-4">
+        {{< figure src="softether_banner.png" link="https://www.softether.org/" img_class="mx-auto d-block" max_width="160px">}}
         </div>
-        <div class="col-md-3 mt-4">
-        {{< figure src="fixstars-full-color-light.png" link="https://www.fixstars.com/en" img_class="mx-auto d-block" max_width="130px">}}
+        <div class="col-md-3 p-4">
+        {{< figure src="fixstars-full-color-light.png" link="https://www.fixstars.com/en" img_class="mx-auto d-block" max_width="160px">}}
         </div>
         </div>
 

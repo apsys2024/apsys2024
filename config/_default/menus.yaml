@@ -7,6 +7,7 @@ main:
   - name: News
     url: news
     weight: 10
+
   - name: Calls
     identifier: calls
     weight: 20
@@ -26,14 +27,15 @@ main:
     parent: calls
     url: cfv
     weight: 24
+
   - name: Program
     identifier: program
     weight: 30
-  - name: Program
+  - name: Workshop
     parent: program
     url: program
     weight: 31
-  - name: Posters
+  - name: Poster
     parent: program
     url: posters
     weight: 32
@@ -41,21 +43,47 @@ main:
     parent: program
     url: papers
     weight: 33
-  - name: Registration
-    url: registration
+
+  - name: Attend
+    identifier: attend
     weight: 40
+  - name: Registration
+    parent: attend
+    url: registration
+    weight: 41
   - name: Visa
+    parent: attend
     url: visa
-    weight: 50
+    weight: 42
   - name: Hotel
+    parent: attend
     url: hotel
-    weight: 60
+    weight: 43
+  - name: Venue
+    parent: attend
+    url: venue
+    weight: 44
+
+  - name: Committee
+    identifier: committee
+    weight: 50
+  - name: Organizing Committee
+    parent: committee
+    url: oc
+    weight: 51
+  - name: Program Committee
+    parent: committee
+    url: pc
+    weight: 52
+  - name: Steering Committee
+    parent: committee
+    url: sc
+    weight: 53
+
   - name: Sponsors
     url: sponsors
     weight: 70
-  - name: Venue
-    url: venue
-    weight: 80
+
   - name: Others
     identifier: others
     weight: 90
@@ -67,7 +95,3 @@ main:
     parent: others
     url: past
     weight: 92
-  - name: Organization
-    parent: others
-    url: organization
-    weight: 93
