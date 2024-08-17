@@ -20,6 +20,16 @@ The submission site is as follows.
 
 https://apsys24posters.hotcrp.com/
 
+## Poster Instructions
+
+(For authors of accepted posters)
+
+We assign a 900mm x 2100mm board for each poster.
+We recommend authors to prepare an A0-sized portrait poster.
+
+The organizing staffs will collect the posters and put them to poster panels.
+Please make sure to hand over your poster to a staff during the PM break (14:30 - 15:00).
+
 ## Important Dates
 
 <h4><i class="fa-solid fa-calendar-days"></i> <s>Jul 19, 2024 (AoE)</s> Jul 24, 2024 (AoE) (Extended)</h4>
