@@ -18,7 +18,7 @@ Use [Kansai-Airport Express “HARUKA”](https://www.westjr.co.jp/global/en/tra
 Pro-tip:
 - Queueing in the line to buy express tickets at the airport station might take some time.
 - If you have a transportation IC-card (Suica, ICOCA, PASMO, etc., either physical or mobile), simply enter the gate using the IC-card and buy an express ticket **inside the train**. Just take a non-reserved seat and ask a in-train staff after the train leaves the station.
-- Note that this is a completely legitimate way and you still pay the exact same price as you would buying a ticket ouside the gate.
+- Note that this is a completely legitimate way and you still pay the exact same price as you would when buying a ticket ouside the gate.
 
 ### From Osaka-Itami airport
 Use a limousine bus to Kyoto station, and then follow the instruction for "From Kyoto Station".
