@@ -43,6 +43,8 @@ https://www.westerndigital.com/
 </div>
 <div class="col-md-8">
 
+BlackBerry provides intelligent security software and services to enterprises and governments around the world.
+
 https://blackberry.qnx.com/en
 </div>
 </div>
