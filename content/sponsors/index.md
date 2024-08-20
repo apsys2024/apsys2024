@@ -43,7 +43,7 @@ https://www.westerndigital.com/
 </div>
 <div class="col-md-8">
 
-BlackBerry provides intelligent security software and services to enterprises and governments around the world.
+BlackBerry® QNX® is a trusted supplier of commercial operating systems, hypervisors, development tools, support and services, all purpose-built for the world’s most critical embedded systems. BlackBerry QNX helps customers streamline their development efforts to more efficiently launch safe, secure and reliable systems. Our technology is trusted in more than 235 million vehicles and is deployed in embedded systems around the world across a range of industries including aerospace and defense, automotive, commercial vehicles, heavy machinery, industrial controls, medical, rail and robotics. Founded in 1980, BlackBerry QNX is headquartered in Ottawa, Canada and was acquired by BlackBerry in 2010.
 
 https://blackberry.qnx.com/en
 </div>
