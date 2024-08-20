@@ -20,6 +20,11 @@ The submission site is as follows.
 
 https://apsys24posters.hotcrp.com/
 
+
+## Poster Abstract
+
+Poster abstracts are generally posted on our web page, but if you do not wish to have your poster abstract posted, please let us know.
+
 ## Poster Instructions
 
 (For authors of accepted posters)
