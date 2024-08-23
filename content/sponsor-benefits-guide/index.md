@@ -40,7 +40,7 @@ This is a guide about the sponsor benefits at the venue such as the sponsor boot
   - Poster board behind the desk (up to 2 for platinum sponsor, up to 1 for gold sponsor)
   - Power supply
 - Please place items (e.g. banners, goods) only on the desk and the area behind of the desk
-- If you plan to use power supply and poster board, please notify the sponsor chair by **Aug. 30 JST**.
+- If you plan to use power supply and poster board, please notify the sponsor chair by **Aug 30 JST**.
 - On the first day, you can start arrange the booth since 8 a.m.
 
 ## Company collateral material
@@ -50,9 +50,8 @@ This is a guide about the sponsor benefits at the venue such as the sponsor boot
 
 ## Sending packages to the venue
 If you send the something (e.g. the company collateral material, novelty goods) to the venue,
-- Please send to the following address, arriving **Sep. 2 JST**.
+- Please send to the following address, arriving **Sep 2 JST**.
 - Please inform the sponsor chair of the size and number of packages by **Aug 30 JST**.
-- Please tell sponsor chair the size and amount of the sent package until **Aug. 30 JST**
 
 Address in English
 >     Okamoto,
