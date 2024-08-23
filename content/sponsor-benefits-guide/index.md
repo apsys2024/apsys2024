@@ -41,12 +41,12 @@ This is a guide about the sponsor benefits at the venue such as the sponsor boot
   - Power supply
 - Please place items (e.g. banners, goods) only on the desk and the area behind of the desk
 - If you plan to use power supply and poster board, please notify the sponsor chair by **Aug 30 JST**.
-- On the first day, you can start arrange the booth since 8 a.m.
+- On the first day, you can start arranging the booth since 8 a.m.
 
 ## Company collateral material
 - At the registration desk, we will hand the company collateral materials along with the registration packet to attendees.
-- To provide your materials with the attendee, please send the materials (see "Sending packages to the venue" section), or bring your materials to the registration desk at 7:45 a.m on the first day.
-- We plan to prepare **120** packets. So we recommended to prepare 120 sets of the material.
+- To provide your materials with the attendee, please send the materials (see "Sending packages to the venue" section), or bring your materials to the registration desk at 7:45 a.m. on the first day.
+- We recommend (but do not require) that you prepare **120** sets of the material, as we plan to prepare 120 packets.
 
 ## Sending packages to the venue
 If you send the something (e.g. the company collateral material, novelty goods) to the venue,
