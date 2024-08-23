@@ -60,7 +60,7 @@ Address in English
 >     604-8558
 
 
-Address in Jpaanese
+Address in Japanese
 >     〒604-8558 京都市中京区河原町御池
 >     ホテルオークラ京都 セールス１課 岡本宛
 
