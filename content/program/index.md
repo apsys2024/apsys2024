@@ -4,13 +4,17 @@
 
 <style>
 div.program h3 {
-    border-bottom: solid 2px lightblue;
+    border: solid 1px blue;
     border-left: solid 8px blue;
     padding: 0.2rem;
+    padding-left: 0.5rem;
     margin-bottom: 1.5rem;
+    background: #eef;
 }
 div.program h3.break {
+    border: solid 1px gray;
     border-left: solid 8px gray;
+    background: #eee;
 }
 div.program p {
     font-size: smaller;
@@ -28,11 +32,20 @@ div.program p {
 
 ### 09:15-10:15 Keynote
 
-#### Dr. Dan R. K. Ports (Principal Researcher at Microsoft Research)
+{{< figure src="dan_ports.jpg" width="720px" height="720px" img_class="avatar avatar-circle float-left" >}}
 
-#### Abstract
+#### Title: The Future of Cloud Networking is Systems
+Dr. Dan R. K. Ports (Principal Researcher at Microsoft Research)
 
-TBA
+##### Abstract:
+<i>
+As cloud platforms evolve, the boundaries between networking and systems are increasingly blurred. Cloud networking not only asks us to solve a challenging systems problem -- providing an efficient, reliable, and secure virtual infrastructure -- but offers us opportunities to rethink our approach to classic challenges in distributed systems. This keynote will explore the potential of systems/networking co-design through the lens of a cloud-scale hardware-accelerated load balancing platform.
+Specifically, I will discuss how programmable networking technology, including programmable switches and smart NICs, enables these load balancers to achieve dramatically higher efficiency than existing software solutions while simultaneously offering increased flexibility for custom, application-specific load balancing logic. Looking to the future, I'll describe three opportunities that this design offers for redefining the architecture of distributed systems with new load-balancing, migration, and snapshotting algorithms, paving the way to a new generation of high-performance, resilient, and scalable cloud services.
+</i>
+
+##### Bio:
+
+Dan R. K. Ports is a Principal Researcher in the Systems Research Group at Microsoft Research, where he leads the Prometheus project -- a long-term collaboration between MSR, academic research groups, hardware vendors, and product groups. Specializing in distributed systems and networking, Dan works across the entire systems stack, focusing on leveraging emerging datacenter technologies like programmable networks. Recent efforts within the Prometheus project have emphasized enhancing the performance, flexibility, and applications of cloud-scale load balancers. He earned his Ph.D. from MIT in 2012 and previously served on the faculty at the University of Washington. Dan's contributions to the field have been recognized with best paper awards at NSDI and OSDI.
 
 <h3 class="break">10:15-10:45 Break</h3>
 
@@ -129,6 +142,6 @@ Kodai Doki (Keio University); Takashi Hoshino (Cybozu Labs, Inc.); Hideyuki Kawa
 #### (20) ONIONDISK: A Log-Structured Write-Optimal Virtual Block Device
 Shiyu Wang, Zhihao Zhang, Yiming Zhang (Xiamen University)
 
-##### 15:50-16:00 Closing remarks
+### 15:50-16:00 Closing remarks
 
 </div>
