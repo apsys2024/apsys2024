@@ -59,10 +59,6 @@ main:
     parent: attend
     url: hotel
     weight: 43
-  - name: Venue
-    parent: attend
-    url: venue
-    weight: 44
 
   - name: Committee
     identifier: committee
@@ -83,6 +79,10 @@ main:
   - name: Sponsors
     url: sponsors
     weight: 70
+
+  - name: Venue
+    url: venue
+    weight: 80
 
   - name: Others
     identifier: others
