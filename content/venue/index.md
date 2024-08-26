@@ -5,7 +5,7 @@
 {{< figure src="okura.jpg" >}}
 
 ## Access
-
+- Room: GYOUN (JP: 暁雲), 4th floor
 - Address: Oike, Kawara-machi, Nakagyo-ku, Kyoto-shi
 - Phone: +81(75) 211-5111
 - Access: https://www.hotel.kyoto.e.adw.hp.transer.com/okura/access/
@@ -34,9 +34,13 @@ Here are the concrete steps for you to follow.
 1. Take a subway Karasuma line (JP: 烏丸線) train bound for Kokusaikaikan (Kyoto International Conference Center). Don't worry, there is only a single subway line accessible from Kyoto station, and every train in the correct direction goes to the same destination.
 2. Get off the train at Karasuma Oike (JP: 烏丸御池) station.
 3. Change trains to a subway Tozai line (JP: 東西線) train bound for Rokujizo. Don't worry again, there is only a single subway line possible to change for you at this station, and every train in the correct direction brings you to our destination.
-4. Get off the train at Kyoto Shiyakusyo-mae (JP: 京都市役所前) station. The venue is directly connected from Exit 3.
+4. Get off the train at Kyoto Shiyakusyo-mae (JP: 京都市役所前) station. The venue is directly connected from Exit 3. Go up the escalator to reach the lobby.
 
 {{< figure src="train_guide.png" >}}
+
+### Inside the venue
+APSys 2024 is held in the ballroom named GYOUN (JP: 暁雲) located at the 4th floor.
+You can find a sign in the lobby.
 
 ## About Kyoto
 
