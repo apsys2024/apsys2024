@@ -31,6 +31,7 @@ projects: []
 This is a guide about the sponsor benefits at the venue such as the sponsor booth and providing company collateral material with attendees.
 
 ### Update history
+- Aug 27: Update "Sponsor booth" and "Company collateral material"
 - Aug 23: First version of the guide
 
 ## Sponsor booth
@@ -42,11 +43,14 @@ This is a guide about the sponsor benefits at the venue such as the sponsor boot
 - Please place items (e.g. banners, goods) only on the desk and the area behind of the desk
 - If you plan to use power supply and poster board, please notify the sponsor chair by **Aug 30 JST**.
 - On the first day, you can start arranging the booth since 8 a.m.
+- [Updated on Aug 27] Please bring your power strip if you need to multiple power ports.
 
 ## Company collateral material
 - At the registration desk, we will hand the company collateral materials along with the registration packet to attendees.
 - To provide your materials with the attendee, please send the materials (see "Sending packages to the venue" section), or bring your materials to the registration desk at 7:45 a.m. on the first day.
 - We recommend (but do not require) that you prepare **120** sets of the material, as we plan to prepare 120 packets.
+- [Updated on Aug 27] If you can, please mark your package with the company collateral materials so we can find them. We will open the package and include the materials in the registration registration packets.
+
 
 ## Sending packages to the venue
 If you send the something (e.g. the company collateral material, novelty goods) to the venue,
