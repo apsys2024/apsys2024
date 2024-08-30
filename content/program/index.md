@@ -9,11 +9,13 @@ div.program h3 {
     padding: 0.2rem;
     padding-left: 0.5rem;
     margin-bottom: 1.5rem;
+    font: black;
     background: #eef;
 }
 div.program h3.break {
     border: solid 1px gray;
     border-left: solid 8px gray;
+    font: black;
     background: #eee;
 }
 div.program p {
@@ -61,6 +63,10 @@ Hyunwoo Ahn, Jongseok Kim, Euiseong Seo (Sungkyunkwan University)
 Dat Nguyen, Khanh Nguyen (Texas A&M University)
 
 <h3 class="break">12:00-13:15 Lunch (on your own)</h3>
+
+{{% callout info %}}
+Eating and drinking are prohibited in the venue rooms.
+{{% /callout %}}
 
 ### 13:15-14:30 Session 2: Kernel Kraziness
 
@@ -119,7 +125,11 @@ Jinbo Han, Xingda Wei, Rong Chen, Haibo Chen (Shanghai Jiao Tong University)
 #### (15) BMoss: Reconfigurable hardware accelerator for scalable plagiarism detection
 Esmerald Aliaj, Alberto Krone-Martins, Sang-Woo Jun (University of California, Irvine)
 
-<h5 class="break">12:00-13:15 Lunch (on your own)</h3>
+<h3 class="break">12:00-13:15 Lunch (on your own)</h3>
+
+{{% callout info %}}
+Eating and drinking are prohibited in the venue rooms.
+{{% /callout %}}
 
 ### 13:15-14:30 Session 6: Edge and Cloud Capers
 
