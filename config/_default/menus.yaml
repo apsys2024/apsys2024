@@ -8,57 +8,17 @@ main:
     url: news
     weight: 10
 
-  - name: Calls
-    identifier: calls
-    weight: 20
-  - name: Call for Papers
-    parent: calls
-    url: cfp
-    weight: 21
-  - name: Call for Posters
-    parent: calls
-    url: cfposters
-    weight: 22
-  - name: Call for Sponsors
-    parent: calls
-    url: cfs
-    weight: 23
-  - name: Call for Volunteers
-    parent: calls
-    url: cfv
-    weight: 24
-
   - name: Program
-    identifier: program
-    weight: 30
-  - name: Workshop
-    parent: program
     url: program
-    weight: 31
-  - name: Poster
-    parent: program
-    url: posters
-    weight: 32
-  - name: Accepted Papers
-    parent: program
-    url: papers
-    weight: 33
+    weight: 20
 
-  - name: Attend
-    identifier: attend
+  - name: Posters
+    url: posters
+    weight: 21
+
+  - name: Sponsors
+    url: sponsors
     weight: 40
-  - name: Registration
-    parent: attend
-    url: registration
-    weight: 41
-  - name: Visa
-    parent: attend
-    url: visa
-    weight: 42
-  - name: Hotel
-    parent: attend
-    url: hotel
-    weight: 43
 
   - name: Committee
     identifier: committee
@@ -76,9 +36,45 @@ main:
     url: sc
     weight: 53
 
-  - name: Sponsors
-    url: sponsors
+  - name: Attend
+    identifier: attend
+    weight: 60
+  - name: Registration
+    parent: attend
+    url: registration
+    weight: 61
+  - name: Visa
+    parent: attend
+    url: visa
+    weight: 62
+  - name: Hotel
+    parent: attend
+    url: hotel
+    weight: 63
+
+  - name: Calls
+    identifier: calls
     weight: 70
+  - name: Call for Papers
+    parent: calls
+    url: cfp
+    weight: 71
+  - name: Call for Posters
+    parent: calls
+    url: cfposters
+    weight: 72
+  - name: Call for Sponsors
+    parent: calls
+    url: cfs
+    weight: 73
+  - name: Call for Volunteers
+    parent: calls
+    url: cfv
+    weight: 74
+  - name: Call for Participation
+    parent: calls
+    url: APSys2024Brochure.pdf
+    weight: 75
 
   - name: Venue
     url: venue
