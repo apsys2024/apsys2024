@@ -23,6 +23,8 @@ div.program h3.break {
 
 **Technical sessions will be held in the right-hand room of GYOUN (暁雲) on the 4th floor of Hotel Okura Kyoto.**
 
+[Proceedings of the 15th ACM SIGOPS Asia-Pacific Workshop on Systems](https://dl.acm.org/doi/proceedings/10.1145/3678015)
+
 {{% callout info %}}
 25 minutes per presentation
 {{% /callout %}}
@@ -160,7 +162,7 @@ Bringing your own food and drink into the venue room is not permitted.
 
 ### 13:15-14:30 Session 6: Edge and Cloud Capers
 
-###### Session Chair: TBD
+###### Session Chair: Myeongjae Jeon (Pohang University of Science and Technology)
 
 #### (16) Toward an Edge-Friendly Distributed Object Store for Serverless Functions
 Liting Hu (UC Santa Cruz); Xin Chen (Georgia Institute of Technology); Manoj Prabhakar Paidiparthy (Virginia Tech)<br>
@@ -178,7 +180,7 @@ https://doi.org/10.1145/3678015.3680493
 
 ### 15:00-15:50 Session 7: Concurrency Chaos
 
-###### Session Chair: TBD
+###### Session Chair: Youngjin Kwon (Korea Advanced Institute of Science and Technology)
 
 #### (19) WoundDie: Concurrency Control Protocol with Lightweight Priority Control
 Kodai Doki (Keio University); Takashi Hoshino (Cybozu Labs, Inc.); Hideyuki Kawashima (Keio University)<br>
