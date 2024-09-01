@@ -1,5 +1,7 @@
 # Sponsors {#sponsors}
 
+**Platinum and Gold sponsor booths will be in the hallway.**
+
 <div class="mb-3 bg-white text-dark">
 <h3 class="text-center gradient-platinum p-2 rounded">Platinum</h3>
 
