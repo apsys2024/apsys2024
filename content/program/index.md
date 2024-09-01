@@ -66,7 +66,7 @@ Dat Nguyen, Khanh Nguyen (Texas A&M University)
 <h3 class="break">12:00-13:15 Lunch (on your own)</h3>
 
 {{% callout info %}}
-Bringing your own food and drink into the venue is not permitted.
+Bringing your own food and drink into the venue room is not permitted.
 {{% /callout %}}
 
 ### 13:15-14:30 Session 2: Kernel Kraziness
@@ -137,7 +137,7 @@ Esmerald Aliaj, Alberto Krone-Martins, Sang-Woo Jun (University of California, I
 <h3 class="break">12:00-13:15 Lunch (on your own)</h3>
 
 {{% callout info %}}
-Bringing your own food and drink into the venue is not permitted.
+Bringing your own food and drink into the venue room is not permitted.
 {{% /callout %}}
 
 ### 13:15-14:30 Session 6: Edge and Cloud Capers
