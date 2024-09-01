@@ -13,7 +13,7 @@ ID,Title,Status,"# Reviews",Authors
 53,"EdgeScaler: Smart (Auto-)Scaling for the 5G Edge",Accepted,0,"Lauren Trinks, Bilal Saleem, Muhammad Shahbaz (Purdue University)"
 54,"""Permission Denied!"" Why?",Accepted,0,"Hiroki Nakajima, Kenta Ishiguro, Kenji Kono (Keio University)"
 55,Towards Cold/Hot Range Partitioning for Compute/Memory Load Balancing in Processing-in-Memory,Accepted,0,"Takato Hideshima, Tomoharu Ugawa (The University of Tokyo)"
-56,Toward Efficient Fuzzing for Container Escape Vulnerability Detection,Accepted,0,"Seiga Ueno (the University of Tokyo); Takahiro Shinagawa (The University of Tokyo)"
+56,Toward Efficient Fuzzing for Container Escape Vulnerability Detection,Accepted,0,"Seiga Ueno, Takahiro Shinagawa (The University of Tokyo)"
 57,Design of SR-IOV Driver to Mitigate Performance Degradation for Lightweight Hypervisor,Accepted,0,"Keisuke Iida (The University of Tokyo); Takaaki Fukai, Takahiro Hirofuchi (National Institute of Advanced Industrial Science and Technology); Takeshi Matsuya (Keio University)"
 58,"Serval: A wait-free and NUMA-aware Deterministic Concurrency Control Scheme",Accepted,0,"Haowen Li, Rina Onishi, Hideyuki Kawashima (Keio University)"
 60,"EUKL: A Prototype of a Linux-Based Unikernel for Resource-Constrained Embedded Systems",Accepted,0,"Yoshifumi Shu, Yutaka Matsubara, Yixiao Li, Hiroaki Takada (Nagoya University)"

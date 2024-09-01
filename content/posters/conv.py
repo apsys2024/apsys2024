@@ -8,5 +8,9 @@ i = 0
 df = pd.read_csv('apsys24posters-data.csv')
 for row in df.itertuples():
     i = i + 1
-    print("###### (%d) %s" % (i, row[2]))
-    print("<p>%s</p>\n" % (row[5]))
+    id = row[1]
+    title = row[2]
+    authors = row[5]
+    print("###### (%d) %s" % (i, title))
+    print("<p>%s<br>" % (authors))
+    print("[<a href=\"apsys24posters-paper%d.pdf\">Abstract</a>]</p>\n" % (id))
