@@ -8,73 +8,73 @@ main:
     url: news
     weight: 10
 
-  - name: Program
-    url: program
-    weight: 20
-
-  - name: Posters
-    url: posters
-    weight: 21
-
-  - name: Sponsors
-    url: sponsors
-    weight: 40
-
-  - name: Committee
-    identifier: committee
-    weight: 50
-  - name: Organizing Committee
-    parent: committee
-    url: oc
-    weight: 51
-  - name: Program Committee
-    parent: committee
-    url: pc
-    weight: 52
-  - name: Steering Committee
-    parent: committee
-    url: sc
-    weight: 53
-
-  - name: Attend
-    identifier: attend
-    weight: 60
-  - name: Registration
-    parent: attend
-    url: registration
-    weight: 61
-  - name: Visa
-    parent: attend
-    url: visa
-    weight: 62
-  - name: Hotel
-    parent: attend
-    url: hotel
-    weight: 63
-
   - name: Calls
     identifier: calls
-    weight: 70
+    weight: 20
   - name: Call for Papers
     parent: calls
     url: cfp
-    weight: 71
+    weight: 21
   - name: Call for Posters
     parent: calls
     url: cfposters
-    weight: 72
+    weight: 22
   - name: Call for Sponsors
     parent: calls
     url: cfs
-    weight: 73
+    weight: 23
   - name: Call for Volunteers
     parent: calls
     url: cfv
-    weight: 74
+    weight: 24
   - name: Call for Participation
     parent: calls
     url: APSys2024Brochure.pdf
-    weight: 75
+    weight: 25
+
+  - name: Program
+    url: program
+    weight: 30
+
+  - name: Posters
+    url: posters
+    weight: 40
+
+  - name: Sponsors
+    url: sponsors
+    weight: 50
+
+  - name: Committee
+    identifier: committee
+    weight: 60
+  - name: Organizing Committee
+    parent: committee
+    url: oc
+    weight: 61
+  - name: Program Committee
+    parent: committee
+    url: pc
+    weight: 62
+  - name: Steering Committee
+    parent: committee
+    url: sc
+    weight: 63
+
+  - name: Attend
+    identifier: attend
+    weight: 70
+  - name: Registration
+    parent: attend
+    url: registration
+    weight: 71
+  - name: Visa
+    parent: attend
+    url: visa
+    weight: 72
+  - name: Hotel
+    parent: attend
+    url: hotel
+    weight: 73
 
   - name: Venue
     url: venue
