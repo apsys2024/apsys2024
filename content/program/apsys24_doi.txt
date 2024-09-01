@@ -1,0 +1,159 @@
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>1</seq_no>
+        <title>Virtual Memory Revisited for Tiered Memory</title>
+        <page_from>1</page_from>
+        <page_to>7</page_to>
+        <doi_number>10.1145/3678015.3680475</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680475</url>
+--
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>2</seq_no>
+        <title>Persistent Memory I/O-Aware Task Placement for Mitigating Resource Contention</title>
+        <page_from>8</page_from>
+        <page_to>14</page_to>
+        <doi_number>10.1145/3678015.3680482</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680482</url>
+--
+        <seq_no>3</seq_no>
+        <title>Polar</title>
+        <subtitle>A Managed Runtime with Hotness-Segregated Heap for Far Memory</subtitle>
+        <page_from>15</page_from>
+        <page_to>22</page_to>
+        <doi_number>10.1145/3678015.3680490</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680490</url>
+--
+        <seq_no>4</seq_no>
+        <title>Chaos</title>
+        <subtitle>Function Granularity Runtime Address Layout Space Randomization for Kernel Module</subtitle>
+        <page_from>23</page_from>
+        <page_to>30</page_to>
+        <doi_number>10.1145/3678015.3680476</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680476</url>
+--
+        <seq_no>5</seq_no>
+        <title>Framekernel</title>
+        <subtitle>A Safe and Efficient Kernel Architecture via Rust-based Intra-kernel Privilege Separation</subtitle>
+        <page_from>31</page_from>
+        <page_to>37</page_to>
+        <doi_number>10.1145/3678015.3680492</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680492</url>
+--
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>6</seq_no>
+        <title>Developing Process Scheduling Policies in User Space with Common OS Features</title>
+        <page_from>38</page_from>
+        <page_to>44</page_to>
+        <doi_number>10.1145/3678015.3680481</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680481</url>
+--
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>7</seq_no>
+        <title>SmartNIC-enabled Live Migration for Storage-Optimized VMs</title>
+        <page_from>45</page_from>
+        <page_to>52</page_to>
+        <doi_number>10.1145/3678015.3680487</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680487</url>
+--
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>8</seq_no>
+        <title>Designing and Implementing Live Migration Support for Arm-based Confidential VMs</title>
+        <page_from>53</page_from>
+        <page_to>59</page_to>
+        <doi_number>10.1145/3678015.3680488</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680488</url>
+--
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>9</seq_no>
+        <title>Towards Efficient End-to-End Encryption for Container Checkpointing Systems</title>
+        <page_from>60</page_from>
+        <page_to>66</page_to>
+        <doi_number>10.1145/3678015.3680477</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680477</url>
+--
+        <seq_no>10</seq_no>
+        <title>NotNets</title>
+        <subtitle>Accelerating Microservices by Bypassing the Network</subtitle>
+        <page_from>67</page_from>
+        <page_to>73</page_to>
+        <doi_number>10.1145/3678015.3680494</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680494</url>
+--
+        <seq_no>11</seq_no>
+        <title>FHA</title>
+        <subtitle>Flow-level High Availability on Programmable Network Hardware for Cloud Provider</subtitle>
+        <page_from>74</page_from>
+        <page_to>80</page_to>
+        <doi_number>10.1145/3678015.3680483</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680483</url>
+--
+        <seq_no>12</seq_no>
+        <title>Split gRPC</title>
+        <subtitle>An Isolation Architecture for RPC Software Stacks</subtitle>
+        <page_from>81</page_from>
+        <page_to>87</page_to>
+        <doi_number>10.1145/3678015.3680484</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680484</url>
+--
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>13</seq_no>
+        <title>Towards a Flexible and High-Fidelity Approach to Distributed DNN Training Emulation</title>
+        <page_from>88</page_from>
+        <page_to>94</page_to>
+        <doi_number>10.1145/3678015.3680478</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680478</url>
+--
+        <seq_no>14</seq_no>
+        <title>SERAPH</title>
+        <subtitle>A Performance-Cost Aware Tuner for Training Reinforcement Learning Model on Serverless Computing</subtitle>
+        <page_from>95</page_from>
+        <page_to>101</page_to>
+        <doi_number>10.1145/3678015.3680479</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680479</url>
+--
+        <seq_no>15</seq_no>
+        <title>BMoss</title>
+        <subtitle>Reconfigurable hardware accelerator for scalable plagiarism detection</subtitle>
+        <page_from>102</page_from>
+        <page_to>107</page_to>
+        <doi_number>10.1145/3678015.3680491</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680491</url>
+--
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>16</seq_no>
+        <title>Toward an Edge-Friendly Distributed Object Store for Serverless Functions</title>
+        <page_from>108</page_from>
+        <page_to>114</page_to>
+        <doi_number>10.1145/3678015.3680485</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680485</url>
+--
+        <seq_no>17</seq_no>
+        <title>Hora</title>
+        <subtitle>High Assurance Periodic Availability Guarantee for Life-Critical Applications on Smartphones</subtitle>
+        <page_from>115</page_from>
+        <page_to>121</page_to>
+        <doi_number>10.1145/3678015.3680486</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680486</url>
+--
+        <article_publication_date>09/04/2024</article_publication_date>
+        <seq_no>18</seq_no>
+        <title>Faster FUSE Filesystems with Efficient Data Transfers</title>
+        <page_from>122</page_from>
+        <page_to>129</page_to>
+        <doi_number>10.1145/3678015.3680493</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680493</url>
+--
+        <seq_no>19</seq_no>
+        <title>WoundDie</title>
+        <subtitle>Concurrency Control Protocol with Lightweight Priority Control</subtitle>
+        <page_from>130</page_from>
+        <page_to>135</page_to>
+        <doi_number>10.1145/3678015.3680480</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680480</url>
+--
+        <seq_no>20</seq_no>
+        <title>ONIONDISK</title>
+        <subtitle>A Log-Structured Write-Optimal Virtual Block Device</subtitle>
+        <page_from>136</page_from>
+        <page_to>143</page_to>
+        <doi_number>10.1145/3678015.3680489</doi_number>
+        <url>https://doi.org/10.1145/3678015.3680489</url>

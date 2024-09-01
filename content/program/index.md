@@ -21,6 +21,8 @@ div.program h3.break {
 </style>
 <div class="program">
 
+**Technical sessions will be held in the right-hand room of GYOUN (暁雲) on the 4th floor of Hotel Okura Kyoto.**
+
 {{% callout info %}}
 25 minutes per presentation
 {{% /callout %}}
@@ -48,7 +50,7 @@ Specifically, I will discuss how programmable networking technology, including p
 Dan R. K. Ports is a Principal Researcher in the Systems Research Group at Microsoft Research, where he leads the Prometheus project -- a long-term collaboration between MSR, academic research groups, hardware vendors, and product groups. Specializing in distributed systems and networking, Dan works across the entire systems stack, focusing on leveraging emerging datacenter technologies like programmable networks. Recent efforts within the Prometheus project have emphasized enhancing the performance, flexibility, and applications of cloud-scale load balancers. He earned his Ph.D. from MIT in 2012 and previously served on the faculty at the University of Washington. Dan's contributions to the field have been recognized with best paper awards at NSDI and OSDI.
 </i>
 
-<h3 class="break">10:15-10:45 Break</h3>
+<h3 class="break">10:15-10:45 Coffee Break</h3>
 
 ### 10:45-12:00 Session 1: Memory Madness
 
@@ -88,7 +90,7 @@ https://doi.org/10.1145/3678015.3680492
 Kenichi Yasukata (IIJ Research Laboratory); Kenta Ishiguro (Keio University)<br>
 https://doi.org/10.1145/3678015.3680481
 
-<h3 class="break">14:30-15:00 Break</h3>
+<h3 class="break">14:30-15:00 Coffee Break</h3>
 
 ### 15:00-16:15 Session 3: Migration Mayhem
 
@@ -107,10 +109,11 @@ Radostin Stoyanov (University of Oxford); Adrian Reber, Daiki Ueno (Red Hat); Mi
 https://doi.org/10.1145/3678015.3680477
 
 ### 16:15-17:15 Poster session
-
+<b>The central room of GYOUN (暁雲)</b>
 #### [Accepted Posters](/posters/)
 
 ### 18:00- Banquet
+<b>The left-hand room of GYOUN (暁雲)</b>
 
 
 ## Thursday, September 5th
@@ -131,7 +134,7 @@ https://doi.org/10.1145/3678015.3680483
 Esteban Ramos (U. C. Santa Cruz); Robert Soulé (Yale University); Peter Alvaro (U. C. Santa Cruz); Pietro Bressana (Intel Corporation); Edmund Chen, Uri Cummings (Unaffiliated); Rui Li (Intel Corporation); James Tsai (Intel Labs); Rajit Manohar (Yale University)<br>
 https://doi.org/10.1145/3678015.3680484
 
-<h3 class="break">10:15-10:45 Break</h3>
+<h3 class="break">10:15-10:45 Coffee Break</h3>
 
 ### 10:45-12:00 Session 5: AI Antics
 
@@ -171,7 +174,7 @@ https://doi.org/10.1145/3678015.3680486
 Giorgos Kappes, Stergios V. Anastasiadis (University of Ioannina)<br>
 https://doi.org/10.1145/3678015.3680493
 
-<h3 class="break">14:30-15:00 Break</h3>
+<h3 class="break">14:30-15:00 Coffee Break</h3>
 
 ### 15:00-15:50 Session 7: Concurrency Chaos
 
