@@ -1,5 +1,25 @@
 # Posters
 
+<style>
+div.program h3 {
+    border: solid 1px blue;
+    border-left: solid 8px blue;
+    padding: 0.2rem;
+    padding-left: 0.5rem;
+    margin-bottom: 1.5rem;
+    color: black;
+    background: #eef;
+}
+</style>
+
+<div class="program">
+
+**The Poster session will be held in the central room of GYOUN (暁雲) on the 4th floor of Hotel Okura Kyoto.**
+
+The room will only open from 15:00, so please give your poster to a staff member during the afternoon coffee break (14:30-15:00). The staff will then put it up during Session 3.
+
+### 16:15-17:15 Poster session
+
 ###### (1) Performance Evaluation of Confidential Containers in the Edge-Cloud Computing Continuum
 <p>Itsuki Nakai (Toyohashi University of Technology); Takaaki Fukai, Takahiro Hirofuchi (National Institute of Advanced Industrial Science and Technology); Yukinori Sato (Toyohashi University of Technology)<br>
 [<a href="apsys24posters-paper3.pdf">Abstract</a>]</p>
@@ -116,3 +136,4 @@
 <p>Yushi Ogiwara, Hideyuki Kawashima (Keio University)<br>
 [<a href="apsys24posters-paper100.pdf">Abstract</a>]</p>
 
+</div>
