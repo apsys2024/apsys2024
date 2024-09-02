@@ -10,6 +10,9 @@ From Kyoto Station to Hotel Okura Kyoto, we strongly recommend using the [subway
 
 ## Access
 - Room: GYOUN (JP: 暁雲), 4th floor
+
+{{< figure src="gyoun_directory.png" >}}
+
 - Address: Oike, Kawara-machi, Nakagyo-ku, Kyoto-shi
 - Phone: +81(75) 211-5111
 - Access: https://www.hotel.kyoto.e.adw.hp.transer.com/okura/access/
