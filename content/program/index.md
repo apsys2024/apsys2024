@@ -78,7 +78,7 @@ Bringing your own food and drink into the venue room is not permitted.
 
 ### 13:15-14:30 Session 2: Kernel Kraziness
 
-###### Session Chair: TBD
+###### Session Chair: Kenichi Yasukata (IIJ Research Laboratory)
 
 #### (4) Chaos: Function Granularity Runtime Address Layout Space Randomization for Kernel Module
 Zihao Chang, Jihan Lin (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory); Haifeng Sun (Peking University); Runkuan Li (Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory); Ying Wang (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences); Bin Hu (Institute of Computing Technology, Chinese Academy of Sciences; Zhongguancun Laboratory); Xiaofang Zhao (Institute of Computing Technology, Chinese Academy of Sciences; Zhongguancun Laboratory; Institute of Intelligent Computing Technology, Suzhou, CAS; University of Chinese Academy of Sciences, Nanjing); Dejun Jiang, Sun Ninghui, Sa Wang (State Key Lab of Processors, Institute of Computing Technology, Chinese Academy of Sciences; University of Chinese Academy of Sciences; Zhongguancun Laboratory)<br>
