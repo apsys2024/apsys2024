@@ -31,6 +31,8 @@ div.program h3.break {
 
 ## Wednesday, September 4th
 
+### 08:00-09:00 Registration
+
 ### 09:00-09:15 Opening remarks
 
 ### 09:15-10:15 Keynote
