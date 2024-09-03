@@ -122,6 +122,8 @@ https://doi.org/10.1145/3678015.3680477
 
 ## Thursday, September 5th
 
+### 08:30-09:00 Registration
+
 ### 09:00-10:15 Session 4: Network Netsense
 
 ###### Session Chair: KyoungSoo Park (Seoul National University)
