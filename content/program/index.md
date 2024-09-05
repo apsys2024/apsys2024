@@ -151,7 +151,7 @@ Banruo Liu (Tsinghua University); Mubarak Ojewale (KAUST); Yuhan Ding (Tsinghua 
 https://doi.org/10.1145/3678015.3680478
 
 #### (14) SERAPH: A Performance-Cost Aware Tuner for Training Reinforcement Learning Model on Serverless Computing<br>
-Jinbo Han, Xingda Wei, Rong Chen, Haibo Chen (Shanghai Jiao Tong University)
+Jinbo Han, Xingda Wei, Rong Chen, Haibo Chen (Shanghai Jiao Tong University)<br>
 https://doi.org/10.1145/3678015.3680479
 
 #### (15) BMoss: Reconfigurable hardware accelerator for scalable plagiarism detection
