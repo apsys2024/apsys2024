@@ -19,7 +19,7 @@
   {{ end }}
 
   {{ with $block.content.text }}
-    <div class="col-md-12">
+    <div class="col-md-2">
       {{ . | emojify | $page.RenderString }}
     </div>
   {{ end }}
@@ -35,9 +35,11 @@
     {{ $query = sort $query $sort_by $sort_order }}
 
     {{if $query | and (gt (len $block.content.user_groups) 1) }}
-      <div class="col-md-12">
+    <div class="col-lg-{{(mul 2 (len $query))}} col-sm-{{(mul 4 (len $query))}}">
+      <div>
         <h2 class="mb-4">{{ . | markdownify }}</h2>
       </div>
+    <div class="row">
     {{end}}
 
     {{ range $query }}
@@ -47,17 +49,17 @@
       {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
         {{ $link = .RelPermalink }}
       {{ end }}
-      <div class="col-12 col-sm-auto people-person">
+      <div class="col-md people-person">
         {{ $src := "" }}
         {{ if site.Params.features.avatar.gravatar }}
           {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
         {{ else if $avatar }}
-          {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+          {{ $avatar_image := $avatar.Fill "200x200 Center" }}
           {{ $src = $avatar_image.RelPermalink }}
         {{ end }}
         {{ if $src }}
           {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
-          {{with $link}}<a href="{{.}}">{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+          {{with $link}}<a href="{{.}}">{{end}}<img width="200" height="200" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
         {{ end }}
 
         <div class="portrait-title">
@@ -69,5 +71,7 @@
         </div>
       </div>
     {{ end }}
+    </div>
+    </div>
   {{ end }}
 </div>
