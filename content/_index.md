@@ -76,17 +76,9 @@ sections:
         -->
 
         <div class="row">
-        <div class="col-md-3"></div>
-        <div class="col-md-2">
-        {{< cta cta_text="Program" cta_link="/program/" cta_new_tab="false" >}}
+        <div class="col">
+        {{< cta cta_text="Survey" cta_link="https://forms.office.com/r/96ecU0uNKj" cta_new_tab="false" >}}
         </div>
-        <div class="col-md-2">
-        {{< cta cta_text="Posters" cta_link="/posters/" cta_new_tab="false" >}}
-        </div>
-        <div class="col-md-2">
-        {{< cta cta_text="Venue" cta_link="/venue/" cta_new_tab="false" >}}
-        </div>
-        <div class="col-md-3"></div>
         </div>
     design:
       columns: '1'
